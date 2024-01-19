@@ -75,5 +75,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "footerBanner",
+    "modelId": "footerbanner",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
