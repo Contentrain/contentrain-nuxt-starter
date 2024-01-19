@@ -52,5 +52,14 @@
     "options": {},
     "validations": {},
     "fieldType": "boolean"
+  },
+  {
+    "name": "rightButtonLabel",
+    "fieldId": "rightbuttonlabel",
+    "modelId": "bloghero",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
   }
 ]
