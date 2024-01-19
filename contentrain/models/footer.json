@@ -34,5 +34,14 @@
     "options": {},
     "validations": {},
     "fieldType": "boolean"
+  },
+  {
+    "name": "middleBottomText",
+    "fieldId": "middlebottomtext",
+    "modelId": "footer",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
   }
 ]
