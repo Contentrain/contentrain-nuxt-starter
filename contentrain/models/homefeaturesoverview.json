@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "homefeaturesoverview",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
