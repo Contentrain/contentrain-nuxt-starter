@@ -16,5 +16,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "imageSrc",
+    "fieldId": "imagesrc",
+    "modelId": "homehero",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
