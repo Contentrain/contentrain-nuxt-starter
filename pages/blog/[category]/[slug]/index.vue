@@ -16,15 +16,15 @@
             <div class="text-center mb-8">
 
                 <div class="h-20 w-20 rounded-full bg-gray-100 overflow-hidden mx-auto mb-2 border shadow-sm">
-                    <img height="80" width="80" class="h-full w-full object-cover" :src="data?.author_photo"/>
+                    <img height="80" width="80" class="h-full w-full object-cover" :src="data?.authorPhotoSrc" :alt="data?.authorPhotoAlt"/>
                 </div>
 
-                <strong class="block mb-1 font-aeonik font-medium text-xl" v-text="data?.author_full_name"/>
-                <span class="block text-primary-500 font-normal text-sm" v-text="data?.author_job"/>
+                <strong class="block mb-1 font-aeonik font-medium text-xl" v-text="data?.authorFullName"/>
+                <span class="block text-primary-500 font-normal text-sm" v-text="data?.authorJob"/>
 
             </div>
 
-            <p class="text-gray-600 font-normal" v-text="data?.author_description"/>
+            <p class="text-gray-600 font-normal" v-text="data?.authorDescription"/>
 
         </div>
 

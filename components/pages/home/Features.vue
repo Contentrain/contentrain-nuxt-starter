@@ -13,9 +13,7 @@
 
                 <p class="text-sm text-gray-600 line-clamp-2 mb-6" v-text="item.description"/>
 
-                <ButtonGhost rounded size="sm">
-                    Learn more
-                </ButtonGhost>
+                <Button type="ghost" size="md" :href="item.buttonLink" :label="item.buttonLabel"></Button>
 
             </div>
 
@@ -29,22 +27,12 @@ export interface FeaturesDataInterface {
     title: string
     icon: string
     description: string
-    link: string
-    buttons: object
-}
-interface ButtonDataInterface {
-    label: string
-    link: string
-    page: string
-    section: string
-    index: number
+    buttonLink: string
+    buttonLabel: string
 }
 defineProps({
   features : {
     type: Object as PropType<FeaturesDataInterface[]>
-  },
-  buttons : {
-    type: Object as PropType<ButtonDataInterface>
   }
 })
 </script>

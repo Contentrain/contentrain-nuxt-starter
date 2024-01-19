@@ -12,15 +12,15 @@
             <div class="text-center mb-6">
 
                 <div class="h-20 w-20 rounded-full bg-gray-100 overflow-hidden mx-auto mb-2">
-                    <img height="80" width="80" class="h-full w-full object-cover" :src="detail.author_photo"/>
+                    <img height="80" width="80" class="h-full w-full object-cover" :src="detail.authorPhotoSrc" :alt="detail?.authorPhotoAlt"/>
                 </div>
 
-                <strong class="block text-xl mb-1" v-text="detail.author_full_name"/>
-                <span class="block text-primary-500 font-normal text-sm" v-text="detail.author_job"/>
+                <strong class="block text-xl mb-1" v-text="detail.authorFullName"/>
+                <span class="block text-primary-500 font-normal text-sm" v-text="detail.authorJob"/>
 
             </div>
 
-            <p class="text-gray-600 font-normal" v-text="detail.author_description"/>
+            <p class="text-gray-600 font-normal" v-text="detail.authorDescription"/>
 
         </div>
 
@@ -36,10 +36,11 @@ const props = defineProps<{
         created_at: string,
         image?: string,
         content?: string,
-        author_full_name: string,
-        author_photo: string,
-        author_job: string,
-        author_description: string,
+        authorFullName: string,
+        authorPhotoSrc: string,
+        authorPhotoAlt: string,
+        authorJob: string,
+        authorDescription: string,
     }
 }>()
 </script>

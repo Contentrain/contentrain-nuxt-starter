@@ -1,8 +1,8 @@
 <template>
     <div class="auth-wrapper">
-        <Button type="ghost" class="mr-1 flex-grow lg:flex-grow-0" label="Sign in">
+        <Button type="ghost" class="mr-1 flex-grow lg:flex-grow-0" :label="headerData?.leftButtonLabel" :href="headerData?.leftButtonLink">
         </Button>
-        <Button class="ml-1 flex-grow lg:flex-grow-0" label="Try for free">
+        <Button class="ml-1 flex-grow lg:flex-grow-0" :label="headerData?.rightButtonLabel" :href="headerData?.rightButtonLink">
         </Button>
     </div>
 </template>
@@ -10,18 +10,8 @@
 <script setup lang="ts">
 import type { PropType } from 'vue'
 
-interface ButtonDataInterface {
-    label: string
-    link: string
-    page: string
-    section: string
-    index: number
-}
 defineProps({
-    buttons : {
-        type: Object as PropType<ButtonDataInterface>
-    },
-    headerButtons: {
+    headerData: {
         type: Object
     }
 })
