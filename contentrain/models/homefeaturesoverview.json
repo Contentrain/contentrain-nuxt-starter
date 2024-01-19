@@ -34,5 +34,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "imageAlt",
+    "fieldId": "imagealt",
+    "modelId": "homefeaturesoverview",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
   }
 ]
