@@ -52,5 +52,14 @@
     "options": {},
     "validations": {},
     "fieldType": "boolean"
+  },
+  {
+    "name": "rightButtonLink",
+    "fieldId": "rightbuttonlink",
+    "modelId": "footerbanner",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
   }
 ]
