@@ -33,5 +33,14 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "blogHero",
+    "modelId": "bloghero-1",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "projectId": "dqvf5xywu7",
+    "id": "bloghero"
   }
 ]
