@@ -7,5 +7,14 @@
     "options": {},
     "validations": {},
     "fieldType": "array"
+  },
+  {
+    "name": "description",
+    "fieldId": "description",
+    "modelId": "homefeaturesoverviewitems",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
