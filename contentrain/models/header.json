@@ -34,5 +34,14 @@
     "options": {},
     "validations": {},
     "fieldType": "boolean"
+  },
+  {
+    "name": "rightButtonLabel",
+    "fieldId": "rightbuttonlabel",
+    "modelId": "header",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
   }
 ]
