@@ -34,5 +34,14 @@
     "options": {},
     "validations": {},
     "fieldType": "array"
+  },
+  {
+    "name": "leftButtonLabel",
+    "fieldId": "leftbuttonlabel",
+    "modelId": "homehero",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
   }
 ]
