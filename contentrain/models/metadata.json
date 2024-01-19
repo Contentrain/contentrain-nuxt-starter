@@ -12,5 +12,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "footer",
+    "modelId": "footer",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
