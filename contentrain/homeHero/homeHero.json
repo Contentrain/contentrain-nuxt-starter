@@ -1,0 +1,9 @@
+[
+  {
+    "title": "More than a Git CMS",
+    "description": "With the GIT version control system, collaboration is streamlined, while the integration of Serverless Platforms ensures real-time updates and scalability.",
+    "imageSrc": "/images/browser-1.png",
+    "imageAlt": "Contentrain app view",
+    "buttons": [7, 8]
+  }
+]
