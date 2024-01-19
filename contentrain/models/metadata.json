@@ -33,5 +33,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "homeHero",
+    "modelId": "homehero",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
