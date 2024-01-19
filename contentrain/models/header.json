@@ -16,5 +16,14 @@
     "options": {},
     "validations": {},
     "fieldType": "array"
+  },
+  {
+    "name": "leftButtonLabel",
+    "fieldId": "leftbuttonlabel",
+    "modelId": "header",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
   }
 ]
