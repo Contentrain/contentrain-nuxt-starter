@@ -25,5 +25,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "imageAlt",
+    "fieldId": "imagealt",
+    "modelId": "homehero",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
   }
 ]
