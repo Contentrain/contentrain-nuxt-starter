@@ -39,6 +39,6 @@
 
 <script setup lang="ts">
 
-import footer from '../../../content/contentrain/footer/footer.json'
+import footer from '../../../contentrain/footer/footer.json'
 const footerData = footer[0]
 </script>

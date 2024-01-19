@@ -21,7 +21,7 @@
       <div class="overflow-auto md:w-[50%]">
         <div class="flex flex-nowrap md:flex-wrap gap-2 md:gap-4 font-medium h-full">
 
-          <template v-for="(item, i) in items" :key="`item-${i}`">
+          <template v-for="(item, i) in featuresOverviewItems" :key="`item-${i}`">
             <button v-text="item.title" @click="active = i" :class="active === i ? 'from-[#3b82f621]': 'from-[#F5FAFF]'"
                     class="border border-indigo-50 hover:border-indigo-200 hover:from-[#3b82f621] hover:shadow-[inset_0_0_0_2px_rgba(59,130,246,0.40)] rounded-xl bg-gradient-to-b to-transparent md:w-full p-3 md:p-6 text-left whitespace-nowrap"/>
           </template>
@@ -30,7 +30,7 @@
       </div>
 
       <div class="flex md:w-[50%]">
-        <template v-for="(item, i) in items" :key="`item-${i}`">
+        <template v-for="(item, i) in featuresOverviewItems" :key="`item-${i}`">
           <template v-if="active === i">
             <NuxtLink
                 class="block border-2 border-indigo-50 rounded-xl overflow-hidden bg-gradient-to-b from-[#F5FAFF] to-transparent w-full px-6 pt-6 text-center">
@@ -45,7 +45,7 @@
 
               <div class="border-t border-l border-r rounded-t-xl h-[230px] overflow-hidden mt-6">
                 <img
-                    src="https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80"
+                    :src="item.imageSrc" :alt="item.imageAlt"
                     height="200" width="100%" class="h-full w-full object-cover"/>
               </div>
 
@@ -87,32 +87,5 @@ defineProps({
   }
 })
 const active = ref<number>(0);
-
-const items = [
-  {
-    title: 'Serverless collections',
-    description: 'Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.',
-    link: '/',
-    image: ''
-  },
-  {
-    title: 'Custom role management',
-    description: 'Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.',
-    link: '/',
-    image: ''
-  },
-  {
-    title: 'User workflows',
-    description: 'Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.',
-    link: '/',
-    image: ''
-  },
-  {
-    title: 'Serverless collections',
-    description: 'Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.',
-    link: '/',
-    image: ''
-  }
-]
 
 </script>

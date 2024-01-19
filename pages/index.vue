@@ -1,39 +1,39 @@
 <template>
     <div>
-        <PagesProductsHero :products="productHeroData"/>
+        <PagesHomeHero :hero-data="heroData"/>
 
-        <PagesProductsFeatures :features="featuresData"/>
+        <PagesHomeFeatures :features="featuresData"/>
 
-        <PagesProductsContentStructure :content-structure="contentStructureData"/>
+        <PagesHomeContentStructure :content-structure="contentStructureData"/>
 
-        <PagesProductsFeaturesOverview :features-overview="featuresOverviewData" :features-overview-items="featuresOverviewItemsData"/>
+        <PagesHomeFeaturesOverview :features-overview="featuresOverviewData" :features-overview-items="featuresOverviewItemsData"/>
 
-        <PagesProductsContentStructure class="md:mb-[144px]" :content-structure="productsCollaborateTeamsData"/>
+        <PagesHomeContentStructure class="md:mb-[144px]" :content-structure="collaborateTeamsData"/>
     </div>
 </template>
 
 <script setup lang="ts">
-import type { ProductsDataInterface } from '~/components/pages/products/Hero.vue';
-import type { ContentStructureDataInterface } from '~/components/pages/products/ContentStructure.vue';
-import type { FeaturesDataInterface } from '~/components/pages/products/Features.vue';
-import type { FeaturesOverviewDataInterface, FeaturesOverviewItemDataInterface } from '~/components/pages/products/FeaturesOverview.vue';
+import type { HeroDataInterface } from '~/components/pages/home/Hero.vue';
+import type { ContentStructureDataInterface } from '~/components/pages/home/ContentStructure.vue';
+import type { FeaturesDataInterface } from '~/components/pages/home/Features.vue';
+import type { FeaturesOverviewDataInterface, FeaturesOverviewItemDataInterface } from '~/components/pages/home/FeaturesOverview.vue';
 
-import pagesProductsHeroData from '../content/contentrain/productsHero/productsHero.json'
-const productHeroData: ProductsDataInterface = pagesProductsHeroData[0]
+import homeHero from '../contentrain/homeHero/homeHero.json'
+const heroData: HeroDataInterface = homeHero[0]
 
-import pagesContentStructureData from '../content/contentrain/productsContentStructure/productsContentStructure.json'
-const contentStructureData: ContentStructureDataInterface = pagesContentStructureData[0]
+import homeContentStructure from '../contentrain/homeContentStructure/homeContentStructure.json'
+const contentStructureData: ContentStructureDataInterface = homeContentStructure[0]
 
-import pagesProductsCollaborateTeamsData from '../content/contentrain/productsCollaborateTeams/productsCollaborateTeams.json'
-const productsCollaborateTeamsData: ContentStructureDataInterface = pagesProductsCollaborateTeamsData[0]
+import homeCollaborateTeams from '../contentrain/homeCollaborateTeams/homeCollaborateTeams.json'
+const collaborateTeamsData: ContentStructureDataInterface = homeCollaborateTeams[0]
 
-import pagesFeaturesData from '../content/contentrain/productsFeatures/productsFeatures.json'
-const featuresData: FeaturesDataInterface[] = pagesFeaturesData
+import homeFeatures from '../contentrain/homeFeatures/homeFeatures.json'
+const featuresData: FeaturesDataInterface[] = homeFeatures
 
-import pagesFeaturesOverviewData from '../content/contentrain/productsFeaturesOverview/productsFeaturesOverview.json'
-const featuresOverviewData: FeaturesOverviewDataInterface = pagesFeaturesOverviewData[0]
+import homeFeaturesOverview from '../contentrain/homeFeaturesOverview/homeFeaturesOverview.json'
+const featuresOverviewData: FeaturesOverviewDataInterface = homeFeaturesOverview[0]
 
-import pagesFeaturesOverviewItemsData from '../content/contentrain/productsFeaturesOverviewItems/productsFeaturesOverviewItems.json'
-const featuresOverviewItemsData: FeaturesOverviewItemDataInterface[] = pagesFeaturesOverviewItemsData
+import homeFeaturesOverviewItems from '../contentrain/homeFeaturesOverviewItems/homeFeaturesOverviewItems.json'
+const featuresOverviewItemsData: FeaturesOverviewItemDataInterface[] = homeFeaturesOverviewItems
 
 </script>

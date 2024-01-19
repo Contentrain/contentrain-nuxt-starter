@@ -20,6 +20,6 @@
 </template>
 
 <script setup lang="ts">
-import header from '../../../content/contentrain/header/header.json'
+import header from '../../../contentrain/header/header.json'
 const headerData = header[0]
 </script>

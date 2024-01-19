@@ -18,12 +18,12 @@
             </p>
 
             <div class="flex justify-center w-full mb-10 md:mb-22">
-                <ButtonBasic size="md" rounded variant="solid" color="primary" class="mr-1">Get started — Free</ButtonBasic>
+                <ButtonBasic tag="a" size="md" rounded variant="solid" color="primary" class="mr-1" :href="contentStructure?.buttonLink">{{contentStructure?.buttonLabel}}</ButtonBasic>
             </div>
 
             <div class="h-[220px] w-[80%] xl:w-[60%] mx-auto rounded-t-lg">
                 <img
-                    src="https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&w=1000&q=80"
+                    :src="contentStructure?.imageSrc" :alt="contentStructure?.imageAlt"
                     height="200" width="100%" class="h-full w-full object-cover rounded-t-lg"/>
             </div>
 
@@ -39,21 +39,12 @@ export interface ContentStructureDataInterface {
     description: string
     imageSrc: string
     imageAlt: string
-    buttons: object
-}
-interface ButtonDataInterface {
-    label: string
-    link: string
-    page: string
-    section: string
-    index: number
+    buttonLabel: string
+    buttonLink: string
 }
 defineProps({
   contentStructure : {
     type: Object as PropType<ContentStructureDataInterface>
-  },
-  buttons : {
-    type: Object as PropType<ButtonDataInterface>
   }
 })
 </script>

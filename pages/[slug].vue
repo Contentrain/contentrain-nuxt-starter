@@ -32,13 +32,7 @@
 </template>
 
 <script setup lang="ts">
-import type { MarkdownParsedContent } from '@nuxt/content/dist/runtime/types';
-
 const route = useRoute()
-const categoryRoute = route.path.split('/')[2]
-const slug = route.path.split('/')[3]
-
-const { data } = await useAsyncData('blogPost', () => queryContent<MarkdownParsedContent>('blog').where({
-    category: {$eq: categoryRoute}, slug: {$eq: slug}
-}).findOne())
-</script>
+const enteredRoute = route.fullPath.split('/')[1]
+const data = await queryContent("use-case").where({ slug: enteredRoute }).findOne()
+ </script>

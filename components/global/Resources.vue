@@ -14,8 +14,8 @@
             </div>
 
             <div class="flex flex-wrap gap-4">
-                <div v-for="(item, i) in resourcesItems" :key="`item-${i}`" class="w-full md:w-[calc(50%-8px)] group cursor-pointer">
-                    <nuxt-link :to="item.link" :class="item.color"
+                <div v-for="(item, i) in resourcesItems" :key="`item-${i}`" class="w-full md:w-[calc(50%-8px)] group cursor-pointer rounded-xl" :class="item.color">
+                    <nuxt-link :to="item.link"
                                class="flex rounded-xl items-center p-6 text-white md:min-h-[140px] min-h-[88px] hover:shadow-[0_0_0_4px_rgba(59,130,246,0.40)]">
 
                         <nuxt-icon :name="item.icon" style="--size: 28px"/>
@@ -54,31 +54,4 @@ defineProps({
     type: Object as PropType<ResourcesItemsDataInterface[]>
   }
 })
-const items = [
-    {
-        icon: 'folder-open',
-        title: 'Start learning with our Headless CMS Library',
-        link: '',
-        color: 'bg-purple-400'
-    },
-    {
-        icon: 'file-text',
-        title: 'Read our Blog',
-        link: '',
-        color: 'bg-blue-400'
-    },
-    {
-        icon: 'discord',
-        title: 'Join our Discord server',
-        link: '',
-        color: 'bg-indigo-500'
-    },
-    {
-        icon: 'play-circle',
-        title: 'Watch our product tutorials and learn fast ',
-        link: '',
-        color: 'bg-violet-700'
-    },
-]
-
 </script>

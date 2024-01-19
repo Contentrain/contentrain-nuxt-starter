@@ -2,9 +2,9 @@
   <nav class="main-navbar" :class="{'shown': shown}">
 
     <div class="flex justify-end self-start p-8 w-full lg:hidden">
-      <LuiButton size="xs" rounded variant="outlined" class="py-3" @click="closeNavMenu">
+      <ButtonBasic size="xs" rounded variant="outline" class="py-3" @click="closeNavMenu">
         <nuxt-icon name="close" class="text-slate-400" style="--size: 16px"/>
-      </LuiButton>
+      </ButtonBasic>
     </div>
 
     <HeaderNavMenuList @close="closeNavMenu" :nav-menu="headerItemsData"/>
@@ -15,7 +15,7 @@
 <script setup lang="ts">
 
 import { navMenuStore } from '#imports';
-import headerItems from '../../../../content/contentrain/headerItems/headerItems.json'
+import headerItems from '../../../../contentrain/headerItems/headerItems.json'
 const headerItemsData = headerItems
 
 const closeNavMenu = (): void => {

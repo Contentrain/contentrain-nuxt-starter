@@ -10,6 +10,7 @@ module.exports = {
     "./pages/**/*.vue",
     "./nuxt.config.{js,ts}",
     "content/**/*.md",
+    "contentrain/**/*.{js,ts,md,json}",
     "node_modules/@lui-ui/lui-vue/dist/*.{js,txt}",
   ],
   theme: {
@@ -65,72 +66,5 @@ module.exports = {
       aeonik: ["Aeonik", "sans-serif"],
     },
   },
-  plugins: [
-    require("@tailwindcss/typography"),
-    plugin(({ config }) => {
-      const states = ["", "hover", "focus", "focus-visible"];
-      const properties = ["bg", "text", "border"];
-      const rootColors = [
-        "primary",
-        "secondary",
-        "success",
-        "warning",
-        "danger",
-        "info",
-      ];
-      // Leveller azaltılabilinir.. ??
-      const levels = [
-        "50",
-        "100",
-        "200",
-        "300",
-        "400",
-        "500",
-        "600",
-        "700",
-        "800",
-        "900",
-      ];
-
-      const luiSafeList = [];
-
-      states.forEach((state) => {
-        if (state !== "focus-visible" && state !== "") {
-          properties.forEach((property) => {
-            rootColors.forEach((color) => {
-              levels.forEach((level) => {
-                luiSafeList.push(`${state}:${property}-${color}-${level}`);
-              });
-            });
-          });
-        }
-        if (state === "") {
-          properties.forEach((property) => {
-            rootColors.forEach((color) => {
-              levels.forEach((level) => {
-                luiSafeList.push(`${property}-${color}-${level}`);
-              });
-            });
-          });
-        }
-
-        if (state === "focus-visible") {
-          rootColors.forEach((color) => {
-            luiSafeList.push(`focus-visible:ring-${color}-500/40`);
-          });
-        }
-        if (state === "hover" || state === "focus") {
-          rootColors.forEach((color) => {
-            luiSafeList.push(`${state}:bg-${color}-600/20`);
-          });
-          rootColors.forEach((color) => {
-            luiSafeList.push(`${state}:hover:bg-${color}-400/20`);
-          });
-        }
-      });
-      luiSafeList.push("py-2");
-      const allClassList = [...luiSafeList, config().safelist];
-      config().safelist = [...new Set(allClassList.flat())];
-    }),
-  ],
+  plugins: [require("@tailwindcss/typography")],
 };

@@ -47,25 +47,4 @@ defineProps({
     type: Object as PropType<ButtonDataInterface>
   }
 })
-const items = [
-    {
-        icon: 'file',
-        title: 'Combining Git & Serverless platforms',
-        description: 'Lorem ipsum dolor sit amet consectetur. Tempor non non ornare dui a cras tristique congue. Urna sed commodo cras senectus amet vestibulum.',
-        link: '/'
-    },
-    {
-        icon: 'file',
-        title: 'Benefits of Git architecture',
-        description: 'Lorem ipsum dolor sit amet consectetur. Tempor non non ornare dui a cras tristique congue. Urna sed commodo cras senectus amet vestibulum.',
-        link: '/'
-    },
-    {
-        icon: 'file',
-        title: 'Why Headless over Monolitic?',
-        description: 'Lorem ipsum dolor sit amet consectetur. Tempor non non ornare dui a cras tristique congue. Urna sed commodo cras senectus amet vestibulum.',
-        link: '/'
-    },
-]
-
 </script>
