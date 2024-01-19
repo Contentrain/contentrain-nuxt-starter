@@ -7,5 +7,14 @@
     "options": {},
     "validations": {},
     "fieldType": "array"
+  },
+  {
+    "name": "logoSrc",
+    "fieldId": "logosrc",
+    "modelId": "footer",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
