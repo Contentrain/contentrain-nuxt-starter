@@ -7,5 +7,14 @@
     "options": {},
     "validations": {},
     "fieldType": "array"
+  },
+  {
+    "name": "to",
+    "fieldId": "to",
+    "modelId": "navigationitems",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "date"
   }
 ]
