@@ -19,12 +19,5 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
-  },
-  {
-    "name": "logoAlt",
-    "modelId": "logoalt",
-    "localization": false,
-    "type": "JSON",
-    "createdBy": "user"
   }
 ]
