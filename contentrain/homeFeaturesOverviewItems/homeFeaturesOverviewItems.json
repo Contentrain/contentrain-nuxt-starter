@@ -1,38 +1,38 @@
 [
-    {
-        "title": "Serverless collections",
-        "subtitle": "subtitle",
-        "buttons": [],
-        "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
-        "link": "/",
-        "imageSrc": "",
-        "imageAlt": ""
-    },
-    {
-        "title": "Custom role management",
-        "subtitle": "subtitle",
-        "buttons": [],
-        "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
-        "link": "/",
-        "imageSrc": "",
-        "imageAlt": ""
-    },
-    {
-        "title": "User workflows",
-        "subtitle": "subtitle",
-        "buttons": [],
-        "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
-        "link": "/",
-        "imageSrc": "",
-        "imageAlt": ""
-    },
-    {
-        "title": "Serverless collections",
-        "subtitle": "subtitle",
-        "buttons": [],
-        "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
-        "link": "/",
-        "imageSrc": "",
-        "imageAlt": ""
-    }
+  {
+    "title": "Serverless collections",
+    "subtitle": "subtitle",
+    "buttons": [],
+    "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
+    "link": "/",
+    "imageSrc": "/images/browser-1.png",
+    "imageAlt": ""
+  },
+  {
+    "title": "Custom role management",
+    "subtitle": "subtitle",
+    "buttons": [],
+    "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
+    "link": "/",
+    "imageSrc": "/images/browser-1.png",
+    "imageAlt": ""
+  },
+  {
+    "title": "User workflows",
+    "subtitle": "subtitle",
+    "buttons": [],
+    "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
+    "link": "/",
+    "imageSrc": "/images/browser-1.png",
+    "imageAlt": ""
+  },
+  {
+    "title": "Serverless collections",
+    "subtitle": "subtitle",
+    "buttons": [],
+    "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
+    "link": "/",
+    "imageSrc": "/images/browser-1.png",
+    "imageAlt": ""
+  }
 ]

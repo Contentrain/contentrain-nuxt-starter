@@ -2,13 +2,20 @@
   <nav class="main-navbar" :class="{'shown': shown}">
 
     <div class="flex justify-end self-start p-8 w-full lg:hidden">
-      <ButtonBasic size="xs" rounded variant="outline" class="py-3" @click="closeNavMenu">
+      <Button type="ghost" class="py-3" @click="closeNavMenu">
         <nuxt-icon name="close" class="text-slate-400" style="--size: 16px"/>
-      </ButtonBasic>
+      </Button>
     </div>
 
     <HeaderNavMenuList @close="closeNavMenu" :nav-menu="headerItemsData"/>
 
+    <div class="self-end p-6 w-full lg:hidden">
+
+      <HeaderAuth class="mb-6"/>
+
+      <SocialLinks/>
+
+    </div>
   </nav>
 </template>
 
@@ -31,7 +38,7 @@ const shown = computed((): boolean => navMenuStore.show)
 .main-navbar {
 
   &__list {
-    @apply flex flex-wrap lg:flex-nowrap m-0 p-0 list-none self-center w-full lg:w-auto
+    @apply flex flex-wrap lg:flex-nowrap m-0 p-0 list-none self-start w-full lg:w-auto
   }
 
   &__item {

@@ -13,8 +13,8 @@
             </p>
 
             <div class="flex justify-center w-full mb-10 lg:mb-16">
-                <ButtonBasic size="md" rounded variant="solid" color="primary" class="mr-1">See live demo</ButtonBasic>
-                <ButtonGhost size="md" rounded class="ml-1">Get started — Free</ButtonGhost>
+                <Button label="See live demo" class="mr-1"></Button>
+                <Button type="ghost" label="Get started — Free" class="ml-1"></Button>
             </div>
 
             <img :src="heroData?.imageSrc" :alt="heroData?.imageAlt" class="max-w-7xl w-full">
