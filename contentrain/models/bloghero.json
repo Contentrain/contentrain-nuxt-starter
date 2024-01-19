@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "bloghero",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
