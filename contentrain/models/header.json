@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "logoSrc",
+    "fieldId": "logosrc",
+    "modelId": "header",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
