@@ -43,5 +43,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "buttonLink",
+    "fieldId": "buttonlink",
+    "modelId": "homefeatures",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
