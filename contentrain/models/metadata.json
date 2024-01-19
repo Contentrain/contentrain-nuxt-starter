@@ -47,5 +47,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "homeCollaborateTeams",
+    "modelId": "homecollaborateteams",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
