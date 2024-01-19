@@ -1,0 +1,20 @@
+[
+  {
+    "name": "name",
+    "fieldId": "name",
+    "modelId": "buttoncategories",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "link",
+    "fieldId": "link",
+    "modelId": "buttoncategories",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "homefeaturesoverview",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "subtitle",
+    "fieldId": "subtitle",
+    "modelId": "homefeaturesoverview",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "description",
+    "fieldId": "description",
+    "modelId": "homefeaturesoverview",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "imageSrc",
+    "fieldId": "imagesrc",
+    "modelId": "homefeaturesoverview",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "imageAlt",
+    "fieldId": "imagealt",
+    "modelId": "homefeaturesoverview",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
+  }
+]

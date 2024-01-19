@@ -1,0 +1,56 @@
+[
+  {
+    "name": "logoSrc",
+    "fieldId": "logosrc",
+    "modelId": "header",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "logoAlt",
+    "fieldId": "logoalt",
+    "modelId": "header",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
+  },
+  {
+    "name": "leftButtonLabel",
+    "fieldId": "leftbuttonlabel",
+    "modelId": "header",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
+  },
+  {
+    "name": "leftButtonLink",
+    "fieldId": "leftbuttonlink",
+    "modelId": "header",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
+  },
+  {
+    "name": "rightButtonLabel",
+    "fieldId": "rightbuttonlabel",
+    "modelId": "header",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
+  },
+  {
+    "name": "rightButtonLink",
+    "fieldId": "rightbuttonlink",
+    "modelId": "header",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
+  }
+]

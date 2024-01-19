@@ -1,0 +1,65 @@
+[
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "homecontentstructure",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "subtitle",
+    "fieldId": "subtitle",
+    "modelId": "homecontentstructure",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "description",
+    "fieldId": "description",
+    "modelId": "homecontentstructure",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "imageAlt",
+    "fieldId": "imagealt",
+    "modelId": "homecontentstructure",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
+  },
+  {
+    "name": "imageSrc",
+    "fieldId": "imagesrc",
+    "modelId": "homecontentstructure",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "buttonLabel",
+    "fieldId": "buttonlabel",
+    "modelId": "homecontentstructure",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "buttonLink",
+    "fieldId": "buttonlink",
+    "modelId": "homecontentstructure",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]

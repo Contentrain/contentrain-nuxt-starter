@@ -1,0 +1,47 @@
+[
+  {
+    "name": "logoAlt",
+    "fieldId": "logoalt",
+    "modelId": "footer",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
+  },
+  {
+    "name": "logoSrc",
+    "fieldId": "logosrc",
+    "modelId": "footer",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "description",
+    "fieldId": "description",
+    "modelId": "footer",
+    "componentId": "multi-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "leftBottomText",
+    "fieldId": "leftbottomtext",
+    "modelId": "footer",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
+  },
+  {
+    "name": "middleBottomText",
+    "fieldId": "middlebottomtext",
+    "modelId": "footer",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
+  }
+]

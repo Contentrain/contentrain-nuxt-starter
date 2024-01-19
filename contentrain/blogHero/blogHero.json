@@ -1,9 +1,12 @@
 [
-    {
-        "title": "We share our experience It’s more than a blog",
-        "description": " With the GIT version control system, collaboration is streamlined, while the integration of Serverless Platforms ensures real-time updates and scalability.",
-        "imageSrc": "/images/browser-1.png",
-        "imageAlt": "Contentrain app view",
-        "buttons": [0, 1]
-    }
+  {
+    "title": "We share our experience It’s more than a blog",
+    "description": " With the GIT version control system, collaboration is streamlined, while the integration of Serverless Platforms ensures real-time updates and scalability.",
+    "imageSrc": "/images/browser-1.png",
+    "imageAlt": "Contentrain app view",
+    "leftButtonLabel": "See live demo",
+    "leftButtonLink": "https://contentrain.io",
+    "rightButtonLabel": "Get started — Free",
+    "rightButtonLink": "https://contentrain.io"
+  }
 ]

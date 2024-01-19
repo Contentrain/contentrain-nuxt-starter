@@ -1,0 +1,56 @@
+[
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "homefeaturesoverviewitems",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
+  },
+  {
+    "name": "description",
+    "fieldId": "description",
+    "modelId": "homefeaturesoverviewitems",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "imageSrc",
+    "fieldId": "imagesrc",
+    "modelId": "homefeaturesoverviewitems",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "imageAlt",
+    "fieldId": "imagealt",
+    "modelId": "homefeaturesoverviewitems",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
+  },
+  {
+    "name": "buttonLabel",
+    "fieldId": "buttonlabel",
+    "modelId": "homefeaturesoverviewitems",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
+  },
+  {
+    "name": "buttonLink",
+    "fieldId": "buttonlink",
+    "modelId": "homefeaturesoverviewitems",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]

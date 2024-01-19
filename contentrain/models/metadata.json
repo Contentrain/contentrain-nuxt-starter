@@ -1,0 +1,86 @@
+[
+  {
+    "name": "buttonCategories",
+    "modelId": "buttoncategories",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "blogHero",
+    "modelId": "bloghero",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "footer",
+    "modelId": "footer",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "header",
+    "modelId": "header",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "navigationItems",
+    "modelId": "navigationitems",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "homeHero",
+    "modelId": "homehero",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "homeFeatures",
+    "modelId": "homefeatures",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "homeCollaborateTeams",
+    "modelId": "homecollaborateteams",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "homeContentStructure",
+    "modelId": "homecontentstructure",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "homeFeaturesOverview",
+    "modelId": "homefeaturesoverview",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "homeFeaturesOverviewItems",
+    "modelId": "homefeaturesoverviewitems",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "footerBanner",
+    "modelId": "footerbanner",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  }
+]

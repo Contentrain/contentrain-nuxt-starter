@@ -1,0 +1,74 @@
+[
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "bloghero",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "description",
+    "fieldId": "description",
+    "modelId": "bloghero",
+    "componentId": "multi-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "imageSrc",
+    "fieldId": "imagesrc",
+    "modelId": "bloghero",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "imageAlt",
+    "fieldId": "imagealt",
+    "modelId": "bloghero",
+    "componentId": "multi-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
+  },
+  {
+    "name": "leftButtonLabel",
+    "fieldId": "leftbuttonlabel",
+    "modelId": "bloghero",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
+  },
+  {
+    "name": "leftButtonLink",
+    "fieldId": "leftbuttonlink",
+    "modelId": "bloghero",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
+  },
+  {
+    "name": "rightButtonLabel",
+    "fieldId": "rightbuttonlabel",
+    "modelId": "bloghero",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
+  },
+  {
+    "name": "rightButtonLink",
+    "fieldId": "rightbuttonlink",
+    "modelId": "bloghero",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
+  }
+]

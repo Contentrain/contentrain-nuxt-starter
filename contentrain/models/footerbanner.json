@@ -1,0 +1,65 @@
+[
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "footerbanner",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "logoSrc",
+    "fieldId": "logosrc",
+    "modelId": "footerbanner",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "logoAlt",
+    "fieldId": "logoalt",
+    "modelId": "footerbanner",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
+  },
+  {
+    "name": "leftButtonLabel",
+    "fieldId": "leftbuttonlabel",
+    "modelId": "footerbanner",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
+  },
+  {
+    "name": "leftButtonLink",
+    "fieldId": "leftbuttonlink",
+    "modelId": "footerbanner",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
+  },
+  {
+    "name": "rightButtonLabel",
+    "fieldId": "rightbuttonlabel",
+    "modelId": "footerbanner",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
+  },
+  {
+    "name": "rightButtonLink",
+    "fieldId": "rightbuttonlink",
+    "modelId": "footerbanner",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
+  }
+]
