@@ -7,5 +7,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "logoAlt",
+    "fieldId": "logoalt",
+    "modelId": "header",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
   }
 ]
