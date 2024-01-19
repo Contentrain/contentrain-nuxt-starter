@@ -11,9 +11,9 @@
             <HeaderAuth/>
         </div>
         <div class="lg:hidden flex">
-            <ButtonBasic size="xs" color="secondary" rounded variant="outline" class="py-3 bg-white xl:hidden" @click="navMenuStore.setMenuVisibility(true)">
+            <Button type="ghost" class="py-3 bg-white xl:hidden" @click="navMenuStore.setMenuVisibility(true)">
                 <nuxt-icon name="menu" style="--size: 16px" class="text-slate-400"/>
-            </ButtonBasic>
+            </Button>
         </div>
       </div>
   </header>

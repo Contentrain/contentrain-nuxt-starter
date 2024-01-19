@@ -1,9 +1,9 @@
 <template>
     <div class="auth-wrapper">
-        <ButtonGhost size="md" rounded variant="outlined" class="mr-1">Sign in
-        </ButtonGhost>
-        <ButtonBasic size="md" rounded variant="solid" color="primary" class="ml-1">Try for free
-        </ButtonBasic>
+        <Button type="ghost" class="mr-1 flex-grow lg:flex-grow-0" label="Sign in">
+        </Button>
+        <Button class="ml-1 flex-grow lg:flex-grow-0" label="Try for free">
+        </Button>
     </div>
 </template>
 

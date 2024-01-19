@@ -1,6 +1,6 @@
 <template>
     <li class="main-navbar__item">
-        <NuxtLink :to="prop.navItem.to" :title="prop.navItem.name" class="main-navbar__link hover:text-primary-500">
+        <NuxtLink :to="prop.navItem.to" :title="prop.navItem.name" class="main-navbar__link hover:text-primary-500" exact-active-class="text-primary-500">
             <span v-text="prop.navItem.name"/>
         </NuxtLink>
     </li>

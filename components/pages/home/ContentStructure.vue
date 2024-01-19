@@ -18,7 +18,7 @@
             </p>
 
             <div class="flex justify-center w-full mb-10 md:mb-22">
-                <ButtonBasic tag="a" size="md" rounded variant="solid" color="primary" class="mr-1" :href="contentStructure?.buttonLink">{{contentStructure?.buttonLabel}}</ButtonBasic>
+                <Button class="mr-1" :href="contentStructure?.buttonLink">{{contentStructure?.buttonLabel}}</Button>
             </div>
 
             <div class="h-[220px] w-[80%] xl:w-[60%] mx-auto rounded-t-lg">

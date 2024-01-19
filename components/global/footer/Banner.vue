@@ -1,6 +1,6 @@
 <template>
     <section class="banner-bg max-w-5xl mx-auto border rounded-[40px] shadow-sm">
-        <div class="container flex flex-col flex-wrap justify-center text-center max-w-xl py-36">
+        <div class="container flex flex-col flex-wrap justify-center text-center max-w-xl py-24">
             <span class="pb-10 mx-auto">
                 <img height="80" width="80" class="object-cover"
                      src="/images/banner-logo.svg"/>
@@ -12,8 +12,8 @@
             <div class="w-full"/>
 
             <div class="flex justify-center w-full">
-                <ButtonBasic size="md" rounded variant="solid" color="primary" class="mr-1">See live demo</ButtonBasic>
-                <ButtonGhost size="md" rounded class="ml-1">Get started — Free</ButtonGhost>
+                <Button label="See live demo" class="mr-1"></Button>
+                <Button type="ghost" label="Get started — Free" class="ml-1"></Button>
             </div>
 
         </div>
