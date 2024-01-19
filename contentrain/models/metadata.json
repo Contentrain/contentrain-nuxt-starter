@@ -40,5 +40,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "homeFeatures",
+    "modelId": "homefeatures",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
