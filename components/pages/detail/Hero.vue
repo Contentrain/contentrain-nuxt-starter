@@ -13,8 +13,8 @@
             </p>
 
             <div class="flex justify-center w-full mb-10 lg:mb-16">
-                 <Button label="See live demo" class="mr-1"></Button>
-                <Button type="ghost" label="Get started — Free" class="ml-1"></Button>
+                <Button :label="detailData?.leftButtonLabel" class="mr-1" :href="detailData?.leftButtonLink"></Button>
+                <Button type="ghost" :label="detailData?.rightButtonLabel" class="ml-1" :href="detailData?.rightButtonLink"></Button>
             </div>
         </div>
     </section>

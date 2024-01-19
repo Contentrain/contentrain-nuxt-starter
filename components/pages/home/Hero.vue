@@ -13,7 +13,7 @@
             </p>
 
             <div class="flex justify-center w-full mb-10 lg:mb-16">
-                <Button label="See live demo" class="mr-1"></Button>
+                <Button :label="heroData?.leftButtonLabel" class="mr-1"></Button>
                 <Button type="ghost" label="Get started — Free" class="ml-1"></Button>
             </div>
 
@@ -30,7 +30,10 @@ export interface HeroDataInterface {
     description: string
     imageSrc: string
     imageAlt: string
-    buttons: object
+    leftButtonLabel: string
+    leftButtonLink: string
+    rightButtonLabel: string
+    rightButtonLink: string
 }
 defineProps({
   heroData : {

@@ -39,9 +39,9 @@
 
               <p v-text="item.description" class="text-sm text-gray-600 line-clamp-2 mb-4"/>
 
-              <ButtonGhost size="sm" rounded>
+              <Button type="ghost" size="sm" rounded>
                 Learn more
-              </ButtonGhost>
+              </Button>
 
               <div class="border-t border-l border-r rounded-t-xl h-[230px] overflow-hidden mt-6">
                 <img
@@ -67,15 +67,14 @@ export interface FeaturesOverviewDataInterface {
     description: string
     imageSrc: string
     imageAlt: string
-    buttons: object
 }
 export interface FeaturesOverviewItemDataInterface {
     title: string
-    subtitle: string
     description:string
     imageSrc: string
     imageAlt: string
-    buttons: object
+    buttonLabel: string
+    buttonLink: string
 }
 
 defineProps({

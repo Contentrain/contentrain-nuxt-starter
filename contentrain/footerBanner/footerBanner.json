@@ -1,7 +1,8 @@
 [
   {
-    "logoSrc": "/images/logo.svg",
-    "logoAlt": "Contentrain",
+    "title": "More than a Git CMS",
+    "logoSrc": "/images/banner-logo.svg",
+    "logoAlt": "Contentrain app view",
     "leftButtonLabel": "See live demo",
     "leftButtonLink": "https://contentrain.io",
     "rightButtonLabel": "Get started — Free",

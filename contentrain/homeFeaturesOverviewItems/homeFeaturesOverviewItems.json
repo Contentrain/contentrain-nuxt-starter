@@ -1,38 +1,34 @@
 [
   {
     "title": "Serverless collections",
-    "subtitle": "subtitle",
-    "buttons": [],
     "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
-    "link": "/",
     "imageSrc": "/images/browser-1.png",
-    "imageAlt": ""
+    "imageAlt": "",
+    "buttonLabel": "",
+    "buttonLink": ""
   },
   {
     "title": "Custom role management",
-    "subtitle": "subtitle",
-    "buttons": [],
     "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
-    "link": "/",
     "imageSrc": "/images/browser-1.png",
-    "imageAlt": ""
+    "imageAlt": "",
+    "buttonLabel": "",
+    "buttonLink": ""
   },
   {
     "title": "User workflows",
-    "subtitle": "subtitle",
-    "buttons": [],
     "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
-    "link": "/",
     "imageSrc": "/images/browser-1.png",
-    "imageAlt": ""
+    "imageAlt": "",
+    "buttonLabel": "",
+    "buttonLink": ""
   },
   {
     "title": "Serverless collections",
-    "subtitle": "subtitle",
-    "buttons": [],
     "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
-    "link": "/",
     "imageSrc": "/images/browser-1.png",
-    "imageAlt": ""
+    "imageAlt": "",
+    "buttonLabel": "",
+    "buttonLink": ""
   }
 ]

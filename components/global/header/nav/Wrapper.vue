@@ -7,7 +7,7 @@
       </Button>
     </div>
 
-    <HeaderNavMenuList @close="closeNavMenu" :nav-menu="headerItemsData"/>
+    <HeaderNavMenuList @close="closeNavMenu" :nav-menu="navigationItemsData"/>
 
     <div class="self-end p-6 w-full lg:hidden">
 
@@ -22,8 +22,8 @@
 <script setup lang="ts">
 
 import { navMenuStore } from '#imports';
-import headerItems from '../../../../contentrain/headerItems/headerItems.json'
-const headerItemsData = headerItems
+import navigationItems from '../../../../contentrain/navigationItems/navigationItems.json'
+const navigationItemsData = navigationItems
 
 const closeNavMenu = (): void => {
   navMenuStore.show = false
