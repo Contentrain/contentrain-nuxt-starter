@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "icon",
+    "fieldId": "icon",
+    "modelId": "homefeatures",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
