@@ -16,5 +16,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "description",
+    "fieldId": "description",
+    "modelId": "homecontentstructure",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
