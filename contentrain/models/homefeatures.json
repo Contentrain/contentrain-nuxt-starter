@@ -34,5 +34,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "buttonLabel",
+    "fieldId": "buttonlabel",
+    "modelId": "homefeatures",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
