@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "logoAlt",
+    "fieldId": "logoalt",
+    "modelId": "footer",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
+  }
+]
