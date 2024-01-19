@@ -1,0 +1,25 @@
+<template>
+  <header class="flex">
+      <div class="container flex justify-between items-center !px-3">
+        <div>
+            <Logo :logo-src="headerData?.logoSrc" :logo-alt="headerData?.logoAlt"/>
+        </div>
+        <div>
+            <HeaderNavWrapper/>
+        </div>
+        <div class="hidden lg:flex">
+            <HeaderAuth/>
+        </div>
+        <div class="lg:hidden flex">
+            <ButtonBasic size="xs" color="secondary" rounded variant="outline" class="py-3 bg-white xl:hidden" @click="navMenuStore.setMenuVisibility(true)">
+                <nuxt-icon name="menu" style="--size: 16px" class="text-slate-400"/>
+            </ButtonBasic>
+        </div>
+      </div>
+  </header>
+</template>
+
+<script setup lang="ts">
+import header from '../../../content/contentrain/header/header.json'
+const headerData = header[0]
+</script>

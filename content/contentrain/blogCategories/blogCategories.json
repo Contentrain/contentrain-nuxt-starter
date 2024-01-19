@@ -1,0 +1,26 @@
+[
+    {
+        "name": "All articles",
+        "link": "/blog"
+    },
+    {
+        "name": "Product",
+        "link": "/blog/product"
+    },
+    {
+        "name": "Ecosystem",
+        "link": "/blog/ecosystem"
+    },
+    {
+        "name": "How to guides",
+        "link": "/blog/how-to-guides"
+    },
+    {
+        "name": "Events",
+        "link": "/blog/events"
+    },
+    {
+        "name": "Company",
+        "link": "/blog/company"
+    }
+]

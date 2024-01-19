@@ -1,0 +1,21 @@
+<template>
+    <div>
+        <PagesBlogHero v-if="!route.params.slug"/>
+
+        <PagesBlogList :data="data"/>
+
+        <Resources v-if="!route.params.slug" :resources="resource" :resources-items="resourceItems" />
+    </div>
+</template>
+
+<script setup lang="ts">
+const route = useRoute()
+import type { ResourcesDataInterface, ResourcesItemsDataInterface } from '~/components/global/Resources.vue';
+import resourceHeroData from '../../../content/contentrain/resourcesHero/resourcesHero.json'
+import resourceItemsData from '../../../content/contentrain/resourcesItems/resourcesItems.json'
+const resource: ResourcesDataInterface = resourceHeroData[0]
+const resourceItems: ResourcesItemsDataInterface[] = resourceItemsData
+
+const splittedRoute = route.path.split('/')[2]
+const data = await queryContent("blog").where({ category: splittedRoute }).find()
+</script>
