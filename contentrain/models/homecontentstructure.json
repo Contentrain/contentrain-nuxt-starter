@@ -34,5 +34,14 @@
     "options": {},
     "validations": {},
     "fieldType": "array"
+  },
+  {
+    "name": "imageSrc",
+    "fieldId": "imagesrc",
+    "modelId": "homecontentstructure",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
