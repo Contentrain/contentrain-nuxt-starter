@@ -54,5 +54,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "homeContentStructure",
+    "modelId": "homecontentstructure",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
