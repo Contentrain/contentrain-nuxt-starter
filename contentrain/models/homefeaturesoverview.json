@@ -25,5 +25,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "imageSrc",
+    "fieldId": "imagesrc",
+    "modelId": "homefeaturesoverview",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
