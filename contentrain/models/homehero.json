@@ -61,5 +61,14 @@
     "options": {},
     "validations": {},
     "fieldType": "boolean"
+  },
+  {
+    "name": "rightButtonLink",
+    "fieldId": "rightbuttonlink",
+    "modelId": "homehero",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
   }
 ]
