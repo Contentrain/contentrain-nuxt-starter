@@ -19,5 +19,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "header",
+    "modelId": "header",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
