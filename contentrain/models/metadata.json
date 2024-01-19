@@ -5,5 +5,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "blogHero",
+    "modelId": "bloghero",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
