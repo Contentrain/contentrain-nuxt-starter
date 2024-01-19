@@ -25,5 +25,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "imageAlt",
+    "fieldId": "imagealt",
+    "modelId": "bloghero",
+    "componentId": "multi-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "array"
   }
 ]
