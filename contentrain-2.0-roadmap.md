@@ -1,7 +1,7 @@
 ---
 ID: "92e8eb7c453b"
 createdAt: "2024-01-20T17:37:24.000Z"
-updatedAt: "2024-01-20T20:46:20.305Z"
+updatedAt: "2024-01-20T20:46:33.908Z"
 status: "publish"
 slug: "contentrain-2.0-roadmap"
 title: "Contentain 2.0 Roadmap"
@@ -16,6 +16,7 @@ authorphotoalt: "sercan image"
 authordescription: "Sercan is one of the founding partners of Contentrain. He also serves as Contentrain's CMO, working on both the creative and management sides of the company."
 
 ---
+.
  
 # Contentrain 2.0 Roadmap
 
