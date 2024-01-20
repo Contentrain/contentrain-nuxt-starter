@@ -6,7 +6,9 @@
     "imagesrc": "/images/browser-1.png",
     "imagealt": "",
     "buttonlabel": "",
-    "buttonlink": ""
+    "buttonlink": "",
+    "status": "publish",
+    "updatedAt": "2024-01-20T13:32:09.776Z"
   },
   {
     "ID": "fdf1dd91a124",
@@ -15,7 +17,9 @@
     "imagesrc": "/images/browser-1.png",
     "imagealt": "",
     "buttonlabel": "",
-    "buttonlink": ""
+    "buttonlink": "",
+    "status": "publish",
+    "updatedAt": "2024-01-20T13:32:09.786Z"
   },
   {
     "ID": "fdf1dd91a125",
@@ -24,7 +28,9 @@
     "imagesrc": "/images/browser-1.png",
     "imagealt": "",
     "buttonlabel": "",
-    "buttonlink": ""
+    "buttonlink": "",
+    "status": "publish",
+    "updatedAt": "2024-01-20T13:32:09.793Z"
   },
   {
     "ID": "fdf1dd91a126",
@@ -33,6 +39,8 @@
     "imagesrc": "/images/browser-1.png",
     "imagealt": "",
     "buttonlabel": "",
-    "buttonlink": ""
+    "buttonlink": "",
+    "status": "publish",
+    "updatedAt": "2024-01-20T13:32:09.803Z"
   }
 ]
