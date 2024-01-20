@@ -1,5 +1,5 @@
 ---
-slug: "developer-experience"
+slug: "developers-experince"
 title: "What Is Developer Experience?"
 description: "Why Developer Experience Matters: Easier Software Building - Find out why a good DX is key to helping developers create better software with less stress."
 category: "ecosystem"
