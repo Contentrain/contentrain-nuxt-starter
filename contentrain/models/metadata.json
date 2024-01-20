@@ -107,6 +107,15 @@
   {
     "name": "blog",
     "modelId": "blog",
+    "path": "content/Blog",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user"
+  },
+  {
+    "name": "useCase",
+    "modelId": "usecase",
+    "path": "content/Use-case",
     "localization": false,
     "type": "MD",
     "createdBy": "user"
