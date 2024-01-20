@@ -2,11 +2,15 @@
   {
     "ID": "fdf1dd91a0b8",
     "name": "Blog",
-    "to": "/blog"
+    "to": "/blog",
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T13:35:37.715Z"
   },
   {
     "ID": "fdf1dd91a0b9",
     "name": "Use case",
-    "to": "/use-case"
+    "to": "/use-case",
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T13:35:37.715Z"
   }
 ]
