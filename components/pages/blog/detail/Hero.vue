@@ -19,11 +19,11 @@
                 <div class="flex items-center mb-6">
 
                     <div class="h-16 w-16 rounded-full bg-gray-100 overflow-hidden border shadow-sm">
-                        <img height="64" width="64" class="h-full w-full object-cover" :src="splitAssetLink(detail?.authorPhotoSrc)" :alt="detail?.authorPhotoAlt"/>
+                        <img height="64" width="64" class="h-full w-full object-cover" :src="splitAssetLink(detail?.authorphotosrc)" :alt="detail?.authorphotoalt"/>
                     </div>
 
                     <div class="pl-2 text-left">
-                        <span class="block font-aeonik font-medium text-xl" v-text="detail?.authorFullName"/>
+                        <span class="block font-aeonik font-medium text-xl" v-text="detail?.authorfullname"/>
                         <span class="block text-gray-600 font-normal text-sm" v-text="formatDate(new Date(detail?.createdAt).toLocaleDateString())"/>
                     </div>
 

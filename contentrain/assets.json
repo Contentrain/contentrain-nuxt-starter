@@ -11,5 +11,70 @@
       },
       "createdAt": "2024-01-20T11:14:33.652Z"
     }
+  },
+  {
+    "path": "public/images/1705750277507_logo.svg",
+    "mimetype": "image/svg+xml",
+    "size": 9471,
+    "meta": {
+      "user": {
+        "name": "Can DEVE",
+        "email": "devecann@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKqhw1I2Z2DLlLkxVas35I4vygqL_fsj2sqLwNFO9PG=s96-c"
+      },
+      "createdAt": "2024-01-20T11:31:19.050Z"
+    }
+  },
+  {
+    "path": "public/images/1705750288207_main-hero.svg",
+    "mimetype": "image/svg+xml",
+    "size": 18965,
+    "meta": {
+      "user": {
+        "name": "Can DEVE",
+        "email": "devecann@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKqhw1I2Z2DLlLkxVas35I4vygqL_fsj2sqLwNFO9PG=s96-c"
+      },
+      "createdAt": "2024-01-20T11:31:29.798Z"
+    }
+  },
+  {
+    "path": "public/images/1705750423844_banner-logo.svg",
+    "mimetype": "image/svg+xml",
+    "size": 8524,
+    "meta": {
+      "user": {
+        "name": "Can DEVE",
+        "email": "devecann@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKqhw1I2Z2DLlLkxVas35I4vygqL_fsj2sqLwNFO9PG=s96-c"
+      },
+      "createdAt": "2024-01-20T11:33:45.409Z"
+    }
+  },
+  {
+    "path": "public/images/1705750433763_browser-1.png",
+    "mimetype": "image/png",
+    "size": 117707,
+    "meta": {
+      "user": {
+        "name": "Can DEVE",
+        "email": "devecann@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKqhw1I2Z2DLlLkxVas35I4vygqL_fsj2sqLwNFO9PG=s96-c"
+      },
+      "createdAt": "2024-01-20T11:33:55.336Z"
+    }
+  },
+  {
+    "path": "public/images/1705750441526_sm-hero.svg",
+    "mimetype": "image/svg+xml",
+    "size": 21830,
+    "meta": {
+      "user": {
+        "name": "Can DEVE",
+        "email": "devecann@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKqhw1I2Z2DLlLkxVas35I4vygqL_fsj2sqLwNFO9PG=s96-c"
+      },
+      "createdAt": "2024-01-20T11:34:02.907Z"
+    }
   }
 ]

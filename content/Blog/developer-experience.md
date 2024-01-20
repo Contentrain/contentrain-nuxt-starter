@@ -1,14 +1,15 @@
 ---
+slug: "developer-experience"
 title: "What Is Developer Experience?"
 description: "Why Developer Experience Matters: Easier Software Building - Find out why a good DX is key to helping developers create better software with less stress."
 category: "ecosystem"
 ID: "eccdef8d-4b03-4c07-8cc7-856dd161afa6"
 slug: "developer-experience"
 image: "https://res.cloudinary.com/dmywgn45o/image/upload/v1701056480/Frame_5611_dou4ss.png"
-authorFullName: "Wordscloud"
-authorJob: "Technical Content Writer"
-authorPhotoSrc: "https://res.cloudinary.com/dmywgn45o/image/upload/v1697445913/samples/people/boy-snow-hoodie.jpg"
-authorDescription: "Rich text editors let users create and edit formatted text even without HTML knowledge by translating text content into styled and rich content. When a user chooses a particular type of style and formatting, this tool translates the style into HTML tags. This means that writers can concentrate on creating developing content without having to worry about the underlying code."
+authorfullname: "Wordscloud"
+authorjob: "Technical Content Writer"
+authorphotosrc: "https://res.cloudinary.com/dmywgn45o/image/upload/v1697445913/samples/people/boy-snow-hoodie.jpg"
+authordescription: "Rich text editors let users create and edit formatted text even without HTML knowledge by translating text content into styled and rich content. When a user chooses a particular type of style and formatting, this tool translates the style into HTML tags. This means that writers can concentrate on creating developing content without having to worry about the underlying code."
 createdAt: 1701772800647
 updatedAt: 1701855040576
 ---

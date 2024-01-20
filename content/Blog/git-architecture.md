@@ -2,13 +2,12 @@
 title: "Benefits of Git architecture"
 description: "Discover how Git architecture simplifies collaboration and accelerates project timelines, making it a developer's essential tool for efficient coding practices."
 category: "ecosystem"
-ID: "27696959-445e-44a6-baf1-8c7e200c8231"
 slug: "git-architecture"
 image: "https://res.cloudinary.com/dmywgn45o/image/upload/v1701056480/Frame_5611_dou4ss.png"
-authorFullName: "Diego Salinas Gardón"
-authorJob: "Technical Content Writer"
-authorPhotoSrc: "https://res.cloudinary.com/dmywgn45o/image/upload/v1697445913/samples/people/boy-snow-hoodie.jpg"
-authorDescription: "Rich text editors let users create and edit formatted text even without HTML knowledge by translating text content into styled and rich content. When a user chooses a particular type of style and formatting, this tool translates the style into HTML tags. This means that writers can concentrate on creating developing content without having to worry about the underlying code."
+authorfullname: "Diego Salinas Gardón"
+authorjob: "Technical Content Writer"
+authorphotosrc: "https://res.cloudinary.com/dmywgn45o/image/upload/v1697445913/samples/people/boy-snow-hoodie.jpg"
+authordescription: "Rich text editors let users create and edit formatted text even without HTML knowledge by translating text content into styled and rich content. When a user chooses a particular type of style and formatting, this tool translates the style into HTML tags. This means that writers can concentrate on creating developing content without having to worry about the underlying code."
 createdAt: 1701770171947
 updatedAt: 1701854942339
 ---
