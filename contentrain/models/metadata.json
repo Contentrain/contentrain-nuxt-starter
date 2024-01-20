@@ -84,7 +84,7 @@
     "createdBy": "user"
   },
   {
-    "name": "resourceshero",
+    "name": "resourcesHero",
     "modelId": "resourceshero",
     "localization": false,
     "type": "JSON",
