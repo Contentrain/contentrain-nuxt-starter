@@ -14,14 +14,14 @@
   {
     "ID": "fdf1dd91a124",
     "createdAt": "2024-01-20T11:35:16.000Z",
-    "updatedAt": "2024-01-20T19:20:20.487Z",
+    "updatedAt": "2024-01-20T19:21:16.500Z",
     "status": "publish",
     "title": "Assests manager",
     "description": "With the new assets manager, you will now be able to manage your visual content more effortlessly.",
     "imagesrc": "public/images/1705778405141_assets.svg",
     "imagealt": "assets",
-    "buttonlabel": "",
-    "buttonlink": ""
+    "buttonlabel": "Discover more",
+    "buttonlink": "https://contentrain.io/"
   },
   {
     "ID": "fdf1dd91a125",
