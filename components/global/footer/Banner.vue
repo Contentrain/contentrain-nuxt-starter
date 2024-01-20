@@ -21,7 +21,7 @@
 </template>
 
 <script setup lang="ts">
-import footerBanner from '../../../contentrain/footerBanner/footerBanner.json'
+import footerBanner from '../../../contentrain/footerbanner/footerbanner.json'
 const footerBannerData = footerBanner[0]
 </script>
 

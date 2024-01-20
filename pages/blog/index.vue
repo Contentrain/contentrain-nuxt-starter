@@ -11,8 +11,8 @@
 <script setup lang="ts">
 const route = useRoute()
 import type { ResourcesDataInterface, ResourcesItemsDataInterface } from '~/components/global/Resources.vue';
-import resourceHeroData from '../../contentrain/resourcesHero/resourcesHero.json'
-import resourceItemsData from '../../contentrain/resourcesItems/resourcesItems.json'
+import resourceHeroData from '../../contentrain/resourceshero/resourceshero.json'
+import resourceItemsData from '../../contentrain/resourcesitems/resourcesitems.json'
 const resource: ResourcesDataInterface = resourceHeroData[0]
 const resourceItems: ResourcesItemsDataInterface[] = resourceItemsData
 
