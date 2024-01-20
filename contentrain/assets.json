@@ -102,5 +102,18 @@
       },
       "createdAt": "2024-01-20T14:37:23.390Z"
     }
+  },
+  {
+    "path": "public/images/1705765740106_beyaz zemin 1.png",
+    "mimetype": "image/png",
+    "size": 1536,
+    "meta": {
+      "user": {
+        "name": "Sercan Oray",
+        "email": "oraysercan@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIfbeqD6ZvisOe-Bw2iam6IedU0BMs3wcz-QXyuA4tw-a8=s96-c"
+      },
+      "createdAt": "2024-01-20T15:49:01.589Z"
+    }
   }
 ]
