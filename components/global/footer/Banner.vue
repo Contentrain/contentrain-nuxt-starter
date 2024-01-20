@@ -3,7 +3,7 @@
         <div class="container flex flex-col flex-wrap justify-center text-center max-w-xl py-24">
             <span class="pb-10 mx-auto">
                 <img height="80" width="80" class="object-cover"
-                     :src="splitAssetLink(footerBannerData?.logosrc)" :alt="footerBannerData?.logoalt"/>
+                     :src="footerBannerData?.logosrc" :alt="footerBannerData?.logoalt"/>
             </span>
             <h1 class="block font-aeonik font-medium text-3xl md:text-5xl md:leading-tight pb-8">
                 {{ footerBannerData.title }}
