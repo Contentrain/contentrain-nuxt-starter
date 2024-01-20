@@ -18,12 +18,12 @@
             </p>
 
             <div class="flex justify-center w-full mb-10 md:mb-22">
-                <Button class="mr-1" :href="contentStructure?.buttonLink">{{contentStructure?.buttonLabel}}</Button>
+                <Button class="mr-1" :href="contentStructure?.buttonlink">{{contentStructure?.buttonlabel}}</Button>
             </div>
 
             <div class="h-[220px] w-[80%] xl:w-[60%] mx-auto rounded-t-lg">
                 <img
-                    :src="contentStructure?.imageSrc" :alt="contentStructure?.imageAlt"
+                    :src="contentStructure?.imagesrc" :alt="contentStructure?.imagealt"
                     height="200" width="100%" class="h-full w-full object-cover rounded-t-lg"/>
             </div>
 
@@ -37,10 +37,10 @@ export interface ContentStructureDataInterface {
     title: string
     subtitle: string
     description: string
-    imageSrc: string
-    imageAlt: string
-    buttonLabel: string
-    buttonLink: string
+    imagesrc: string
+    imagealt: string
+    buttonlabel: string
+    buttonlink: string
 }
 defineProps({
   contentStructure : {

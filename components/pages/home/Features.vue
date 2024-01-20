@@ -13,7 +13,7 @@
 
                 <p class="text-sm text-gray-600 line-clamp-2 mb-6" v-text="item.description"/>
 
-                <Button type="ghost" size="md" :href="item.buttonLink" :label="item.buttonLabel"></Button>
+                <Button type="ghost" size="md" :href="item.buttonlink" :label="item.buttonlabel"></Button>
 
             </div>
 
@@ -27,8 +27,8 @@ export interface FeaturesDataInterface {
     title: string
     icon: string
     description: string
-    buttonLink: string
-    buttonLabel: string
+    buttonlink: string
+    buttonlabel: string
 }
 defineProps({
   features : {

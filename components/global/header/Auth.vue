@@ -1,8 +1,8 @@
 <template>
     <div class="auth-wrapper">
-        <Button type="ghost" class="mr-1 flex-grow lg:flex-grow-0" :label="headerData?.leftButtonLabel" :href="headerData?.leftButtonLink">
+        <Button type="ghost" class="mr-1 flex-grow lg:flex-grow-0" :label="headerData?.leftbuttonlabel" :href="headerData?.leftbuttonlink">
         </Button>
-        <Button class="ml-1 flex-grow lg:flex-grow-0" :label="headerData?.rightButtonLabel" :href="headerData?.rightButtonLink">
+        <Button class="ml-1 flex-grow lg:flex-grow-0" :label="headerData?.rightbuttonlabel" :href="headerData?.rightbuttonlink">
         </Button>
     </div>
 </template>

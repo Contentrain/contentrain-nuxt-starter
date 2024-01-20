@@ -45,7 +45,7 @@
 
               <div class="border-t border-l border-r rounded-t-xl h-[230px] overflow-hidden mt-6">
                 <img
-                    :src="item.imageSrc" :alt="item.imageAlt"
+                    :src="item.imagesrc" :alt="item.imagealt"
                     height="200" width="100%" class="h-full w-full object-cover"/>
               </div>
 
@@ -65,16 +65,16 @@ export interface FeaturesOverviewDataInterface {
     title: string
     subtitle: string
     description: string
-    imageSrc: string
-    imageAlt: string
+    imagesrc: string
+    imagealt: string
 }
 export interface FeaturesOverviewItemDataInterface {
     title: string
     description:string
-    imageSrc: string
-    imageAlt: string
-    buttonLabel: string
-    buttonLink: string
+    imagesrc: string
+    imagealt: string
+    buttonlabel: string
+    buttonlink: string
 }
 
 defineProps({

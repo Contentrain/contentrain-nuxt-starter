@@ -13,8 +13,8 @@
             </p>
 
             <div class="flex justify-center w-full mb-10 lg:mb-16">
-                <Button :label="detailData?.leftButtonLabel" class="mr-1" :href="detailData?.leftButtonLink"></Button>
-                <Button type="ghost" :label="detailData?.rightButtonLabel" class="ml-1" :href="detailData?.rightButtonLink"></Button>
+                <Button :label="detailData?.leftbuttonlabel" class="mr-1" :href="detailData?.leftbuttonlink"></Button>
+                <Button type="ghost" :label="detailData?.rightbuttonlabel" class="ml-1" :href="detailData?.rightbuttonlink"></Button>
             </div>
         </div>
     </section>

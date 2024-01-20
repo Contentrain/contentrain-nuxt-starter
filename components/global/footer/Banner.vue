@@ -3,7 +3,7 @@
         <div class="container flex flex-col flex-wrap justify-center text-center max-w-xl py-24">
             <span class="pb-10 mx-auto">
                 <img height="80" width="80" class="object-cover"
-                     :src="footerBannerData?.logoSrc" :alt="footerBannerData?.logoAlt"/>
+                     :src="footerBannerData?.logosrc" :alt="footerBannerData?.logoalt"/>
             </span>
             <h1 class="block font-aeonik font-medium text-3xl md:text-5xl md:leading-tight pb-8">
                 {{ footerBannerData.title }}
@@ -12,8 +12,8 @@
             <div class="w-full"/>
 
             <div class="flex justify-center w-full">
-                <Button :label="footerBannerData?.leftButtonLabel" :href="footerBannerData?.leftButtonLink" class="mr-1"></Button>
-                <Button type="ghost" :label="footerBannerData?.rightButtonLabel" class="ml-1" :href="footerBannerData?.rightButtonLink"></Button>
+                <Button :label="footerBannerData?.leftbuttonlabel" :href="footerBannerData?.leftbuttonlink" class="mr-1"></Button>
+                <Button type="ghost" :label="footerBannerData?.rightbuttonlabel" class="ml-1" :href="footerBannerData?.rightbuttonlink"></Button>
             </div>
 
         </div>
