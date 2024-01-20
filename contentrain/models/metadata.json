@@ -96,5 +96,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "socialLinks",
+    "modelId": "sociallinks",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
