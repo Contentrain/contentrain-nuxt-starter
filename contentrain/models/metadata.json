@@ -75,5 +75,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "blogCategories",
+    "modelId": "blogcategories",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
