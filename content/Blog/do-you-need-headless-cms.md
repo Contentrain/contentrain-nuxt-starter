@@ -2,15 +2,16 @@
 description: "Dive into an analysis of whether a headless CMS is the right investment for your business, with a spotlight on Contentrain's ability to deliver content effectively while managing resources and budget efficiently."
 title: "Do You Need a Headless CMS? Here’s Why You Probably Don’t"
 category: "product"
-ID: "18942ab1-cc91-4f04-843d-78562e6aa194"
 slug: "do-you-need-headless-cms"
-image: "https://res.cloudinary.com/dmywgn45o/image/upload/v1701056480/Frame_5611_dou4ss.png"
-authorFullName: "Andres Phillips"
-authorJob: "Technical Content Writer"
-authorPhotoSrc: "https://res.cloudinary.com/dmywgn45o/image/upload/v1697445913/samples/people/boy-snow-hoodie.jpg"
-authorDescription: "Rich text editors let users create and edit formatted text even without HTML knowledge by translating text content into styled and rich content. When a user chooses a particular type of style and formatting, this tool translates the style into HTML tags. This means that writers can concentrate on creating developing content without having to worry about the underlying code."
-createdAt: 1701786362414
-updatedAt: 1701867686984
+ID: "ed4144322c2c"
+createdAt: "Sat Jan 20 2024 14:35:16 GMT+0300 (GMT+03:00)"
+updatedAt: "Sat Jan 20 2024 14:35:16 GMT+0300 (GMT+03:00)"
+imagesrc: "public/images/1705750433763_browser-1.png"
+imagealt: "developer"
+authorfullname: "Wordscloud"
+authorjob: "Technical Content Writer"
+authorphotosrc: "https://res.cloudinary.com/dmywgn45o/image/upload/v1697445913/samples/people/boy-snow-hoodie.jpg"
+authordescription: "Rich text editors let users create and edit formatted text even without HTML knowledge by translating text content into styled and rich content. When a user chooses a particular type of style and formatting, this tool translates the style into HTML tags. This means that writers can concentrate on creating developing content without having to worry about the underlying code."
 ---
 
 Blazing-fast websites, increased performance, and a better user experience are just some things businesses are looking for from their content management systems today. As the role of CMS has evolved, terms like headless CMS and digital experience platform have been growing in popularity in recent years.
