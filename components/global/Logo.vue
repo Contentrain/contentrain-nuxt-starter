@@ -1,6 +1,6 @@
 <template>
     <NuxtLink to="/" title="Contentrain" class="logo">
-        <img :src="(logosrc)" :alt="logoalt" width="189" height="38"/>
+        <img :src="logosrc" :alt="logoalt" width="189" height="38"/>
     </NuxtLink>
 </template>
 <script setup lang="ts">
