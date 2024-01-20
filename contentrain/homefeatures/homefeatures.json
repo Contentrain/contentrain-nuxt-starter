@@ -11,13 +11,13 @@
   },
   {
     "ID": "fdf1dd91a0b8",
-    "icon": "file",
-    "title": "Combining Git & Serverless platforms",
-    "description": "Lorem ipsum dolor sit amet consectetur. Tempor non non ornare dui a cras tristique congue. Urna sed commodo cras senectus amet vestibulum.",
-    "buttonlabel": "Learn more",
-    "buttonlink": "https://contentrain.io",
     "createdAt": "2024-01-20T11:35:16.000Z",
-    "updatedAt": "2024-01-20T13:35:37.715Z"
+    "updatedAt": "2024-01-20T18:40:08.168Z",
+    "icon": "file",
+    "title": "Why you should use Contentrain?",
+    "description": "Contentrain offers you the best developer experience and helps you develop your project without leaving your familiar development environment.",
+    "buttonlabel": "Learn more",
+    "buttonlink": "https://contentrain.io"
   },
   {
     "ID": "fdf1dd91a0b9",
