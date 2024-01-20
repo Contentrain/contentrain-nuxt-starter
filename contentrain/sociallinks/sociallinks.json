@@ -2,21 +2,29 @@
     {
         "ID": "fdf1dd91a0b8",
         "name": "Twitter",
-        "link": ""
+        "link": "",
+        "createdAt": "2024-01-20T11:35:16.000Z",
+        "updatedAt": "2024-01-20T13:35:37.715Z"
     },
     {
         "ID": "fdf1dd91a0b0",
         "name": "LinkedIn",
-        "link": ""
+        "link": "",
+        "createdAt": "2024-01-20T11:35:16.000Z",
+        "updatedAt": "2024-01-20T13:35:37.715Z"
     },
     {
         "ID": "fdf1dd91a090",
         "name": "Crunchbase",
-        "link": ""
+        "link": "",
+        "createdAt": "2024-01-20T11:35:16.000Z",
+        "updatedAt": "2024-01-20T13:35:37.715Z"
     },
     {
         "ID": "fdf1dd91a0kj",
         "name": "Wellfound",
-        "link": ""
+        "link": "",
+        "createdAt": "2024-01-20T11:35:16.000Z",
+        "updatedAt": "2024-01-20T13:35:37.715Z"
     }
 ]
