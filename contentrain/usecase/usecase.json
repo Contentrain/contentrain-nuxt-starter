@@ -16,23 +16,5 @@
     "authordescription": "yapar bi seyler ama ne bilmiyorum",
     "status": "publish",
     "path": "content/Use-case"
-  },
-  {
-    "ID": "f272d1131836",
-    "createdAt": "Sat Jan 20 2024 17:52:39 GMT+0300 (GMT+03:00)",
-    "updatedAt": "Sat Jan 20 2024 17:52:39 GMT+0300 (GMT+03:00)",
-    "slug": "firstcontent",
-    "title": "First Content",
-    "description": "Milkdown is a WYSIWYG markdown editor framework.",
-    "category": "Use Case",
-    "imagesrc": "public/images/1705755272003_mail.png",
-    "imagealt": "alt text",
-    "authorfullname": "Sercan Oray",
-    "authorjob": "Çöpçü",
-    "authorphotosrc": "public/images/1705755272003_mail.png",
-    "authorphotoalt": "alt text",
-    "authordescription": "yoktur",
-    "status": "publish",
-    "path": "content/Use-case"
   }
 ]
