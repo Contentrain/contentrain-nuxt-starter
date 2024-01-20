@@ -1,8 +1,8 @@
 ---
 ID: "92e8eb7c453b"
 createdAt: "2024-01-20T17:37:24.000Z"
-updatedAt: "2024-01-20T20:42:47.904Z"
-status: "draft"
+updatedAt: "2024-01-20T20:46:20.305Z"
+status: "publish"
 slug: "contentrain-2.0-roadmap"
 title: "Contentain 2.0 Roadmap"
 description: "As a bootstrapped digital product, reaching over 1000 users in a short time with the launch was great but it also brings tough liabilities for the creators of the product. Once a macro-scale product is launched and finds resonance with the users, it's crucial to be prepared for user feedback and new feature requests."
@@ -16,6 +16,7 @@ authorphotoalt: "sercan image"
 authordescription: "Sercan is one of the founding partners of Contentrain. He also serves as Contentrain's CMO, working on both the creative and management sides of the company."
 
 ---
+ 
 # Contentrain 2.0 Roadmap
 
 Private Beta version of Contentrain was released in November 2021 and underwent an effective test period by industry professionals during its first six months. This phase not only provided valuable insights, but also demonstrated that the technology was effective and useful. Since its current version was made public, Contentrain has been employed in various projects by hundreds of users.
