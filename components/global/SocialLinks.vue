@@ -11,7 +11,7 @@
 </template>
 
 <script setup lang="ts">
-import socialLinks from '../../contentrain/socialLinks/socialLinks.json'
+import socialLinks from '../../contentrain/sociallinks/sociallinks.json'
 const socialLinksData = socialLinks
 
 </script>

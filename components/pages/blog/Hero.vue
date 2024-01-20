@@ -27,8 +27,8 @@
 </template>
 
 <script setup lang="ts">
-import pageBlogHeroData from '../../../contentrain/blogHero/blogHero.json'
+import pageBlogHeroData from '../../../contentrain/bloghero/bloghero.json'
 const blogHeroData = pageBlogHeroData[0]
-import pageBlogCategoriesData from '../../../contentrain/blogCategories/blogCategories.json'
+import pageBlogCategoriesData from '../../../contentrain/blogcategories/blogcategories.json'
 const blogCategoriesData = pageBlogCategoriesData
 </script>

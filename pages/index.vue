@@ -18,22 +18,22 @@ import type { ContentStructureDataInterface } from '~/components/pages/home/Cont
 import type { FeaturesDataInterface } from '~/components/pages/home/Features.vue';
 import type { FeaturesOverviewDataInterface, FeaturesOverviewItemDataInterface } from '~/components/pages/home/FeaturesOverview.vue';
 
-import homeHero from '../contentrain/homeHero/homeHero.json'
+import homeHero from '../contentrain/homehero/homehero.json'
 const heroData: HeroDataInterface = homeHero[0]
 
-import homeContentStructure from '../contentrain/homeContentStructure/homeContentStructure.json'
+import homeContentStructure from '../contentrain/homecontentstructure/homecontentstructure.json'
 const contentStructureData: ContentStructureDataInterface = homeContentStructure[0]
 
-import homeCollaborateTeams from '../contentrain/homeCollaborateTeams/homeCollaborateTeams.json'
+import homeCollaborateTeams from '../contentrain/homecollaborateteams/homecollaborateteams.json'
 const collaborateTeamsData: ContentStructureDataInterface = homeCollaborateTeams[0]
 
-import homeFeatures from '../contentrain/homeFeatures/homeFeatures.json'
+import homeFeatures from '../contentrain/homefeatures/homefeatures.json'
 const featuresData: FeaturesDataInterface[] = homeFeatures
 
-import homeFeaturesOverview from '../contentrain/homeFeaturesOverview/homeFeaturesOverview.json'
+import homeFeaturesOverview from '../contentrain/homefeaturesoverview/homefeaturesoverview.json'
 const featuresOverviewData: FeaturesOverviewDataInterface = homeFeaturesOverview[0]
 
-import homeFeaturesOverviewItems from '../contentrain/homeFeaturesOverviewItems/homeFeaturesOverviewItems.json'
+import homeFeaturesOverviewItems from '../contentrain/homefeaturesoverviewitems/homefeaturesoverviewitems.json'
 const featuresOverviewItemsData: FeaturesOverviewItemDataInterface[] = homeFeaturesOverviewItems
 
 </script>
