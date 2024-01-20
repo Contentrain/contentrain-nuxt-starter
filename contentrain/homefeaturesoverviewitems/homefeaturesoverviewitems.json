@@ -2,14 +2,14 @@
   {
     "ID": "fdf1dd91a123",
     "createdAt": "2024-01-20T11:35:16.000Z",
-    "updatedAt": "2024-01-20T19:15:37.809Z",
+    "updatedAt": "2024-01-20T19:21:00.890Z",
     "status": "publish",
     "title": "Webhooks",
     "description": "You'll now be able to create webhooks and work with third-party marketing tools from within Contentrain.",
     "imagesrc": "public/images/1705778124461_Webhooks.svg",
-    "imagealt": "",
-    "buttonlabel": "",
-    "buttonlink": ""
+    "imagealt": "webhooks",
+    "buttonlabel": "Discover more",
+    "buttonlink": "https://contentrain.io/"
   },
   {
     "ID": "fdf1dd91a124",
