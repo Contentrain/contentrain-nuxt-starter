@@ -4,27 +4,35 @@
         "icon": "folder-open",
         "title": "Start learning with our Headless CMS Library",
         "link": "https://docs.contentrain.io",
-        "color": "bg-purple-400"
+        "color": "bg-purple-400",
+        "createdAt": "2024-01-20T11:35:16.000Z",
+        "updatedAt": "2024-01-20T13:35:37.715Z"
     },
     {
         "ID": "fdf1dd91a124",
         "icon": "file-text",
         "title": "Read our Blog",
         "link": "/blog",
-        "color": "bg-blue-400"
+        "color": "bg-blue-400",
+        "createdAt": "2024-01-20T11:35:16.000Z",
+        "updatedAt": "2024-01-20T13:35:37.715Z"
     },
     {
         "ID": "fdf1dd94530b8",
         "icon": "discord",
         "title": "Join our Discord server",
         "link": "https://discord.gg/gwXkEZHAgT",
-        "color": "bg-indigo-500"
+        "color": "bg-indigo-500",
+        "createdAt": "2024-01-20T11:35:16.000Z",
+        "updatedAt": "2024-01-20T13:35:37.715Z"
     },
     {
         "ID": "fdf1dd913458",
         "icon": "play-circle",
         "title": "Watch our product tutorials and learn fast ",
         "link": "https://youtube.com",
-        "color": "bg-violet-700"
+        "color": "bg-violet-700",
+        "createdAt": "2024-01-20T11:35:16.000Z",
+        "updatedAt": "2024-01-20T13:35:37.715Z"
     }
 ]
