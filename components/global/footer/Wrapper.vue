@@ -8,7 +8,7 @@
 
                 <div class="text-center mb-10 md:mb-16">
 
-                    <Logo :logo-src="footerData?.logosrc" :logo-alt="footerData?.logoalt"/>
+                    <LogoWide :logo-src="footerData?.logosrc" :logo-alt="footerData?.logoalt"/>
 
                     <p class="block xl:max-w-5xl text-sm md:text-base text-gray-600 mx-auto"
                     v-text="footerData?.description"/>

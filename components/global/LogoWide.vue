@@ -1,8 +1,6 @@
 <template>
-    <NuxtLink to="/" title="Contentrain" class="logo">
-        <div class="flex max-w-[189px] h-[38px] aspect-square">
+    <NuxtLink to="/" title="Contentrain" class="py-3 lg:py-6 inline-block">
           <img :src="splitAssetLink(logosrc)" :alt="logoalt" width="189" height="38"/>
-        </div>
     </NuxtLink>
 </template>
 <script setup lang="ts">
@@ -18,8 +16,3 @@ defineProps({
   },
 })
 </script>
-<style lang="postcss">
-.logo{
-    @apply py-3 lg:py-6 inline-block w-[189px] h-[38px]
-}
-</style>

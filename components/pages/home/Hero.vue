@@ -17,7 +17,9 @@
                 <Button type="ghost" label="Get started — Free" class="ml-1"></Button>
             </div>
 
-            <img :src="heroData?.imagesrc.split('public')[1]" :alt="heroData?.imagealt" class="max-w-7xl w-full">
+            <div v-if="heroData">
+                <img :src="splitAssetLink(heroData?.imagesrc)" :alt="heroData?.imagealt" class="max-w-7xl w-full">
+            </div>
 
         </div>
     </section>

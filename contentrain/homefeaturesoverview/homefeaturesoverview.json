@@ -4,7 +4,7 @@
     "title": "Create, edit and publish your content with awesome features you need",
     "subtitle": "Features overview",
     "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences with awesome features.",
-    "imagesrc": "/images/browser-1.png",
+    "imagesrc": "public/images/browser-1.png",
     "imagealt": "Contentrain app view",
     "createdAt": "2024-01-20T11:35:16.000Z",
     "updatedAt": "2024-01-20T13:35:37.715Z"
