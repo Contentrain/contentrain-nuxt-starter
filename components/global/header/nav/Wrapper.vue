@@ -11,7 +11,7 @@
 
     <div class="self-end p-6 w-full lg:hidden">
 
-      <HeaderAuth class="mb-6"/>
+      <HeaderAuth class="mb-6" :header-data="headerData"/>
 
       <SocialLinks/>
 
@@ -24,6 +24,8 @@
 import { navMenuStore } from '#imports';
 import navigationItems from '../../../../contentrain/navigationitems/navigationitems.json'
 const navigationItemsData = navigationItems
+import header from '../../../../contentrain/header/header.json'
+const headerData = header[0]
 
 const closeNavMenu = (): void => {
   navMenuStore.show = false

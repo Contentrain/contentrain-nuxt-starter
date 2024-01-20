@@ -16,7 +16,7 @@
             <div class="text-center mb-8">
 
                 <div class="h-20 w-20 rounded-full bg-gray-100 overflow-hidden mx-auto mb-2 border shadow-sm">
-                    <img height="80" width="80" class="h-full w-full object-cover" :src="data?.authorPhotoSrc" :alt="data?.authorPhotoAlt"/>
+                    <img height="80" width="80" class="h-full w-full object-cover" :src="splitAssetLink(data?.authorPhotoSrc)" :alt="data?.authorPhotoAlt"/>
                 </div>
 
                 <strong class="block mb-1 font-aeonik font-medium text-xl" v-text="data?.authorFullName"/>

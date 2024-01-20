@@ -2,13 +2,13 @@
   <header class="flex">
       <div class="container flex justify-between items-center !px-3">
         <div>
-            <Logo :logo-src="headerData?.logosrc" :logo-alt="headerData?.logoalt"/>
+            <Logo :logosrc="headerData?.logosrc" :logoalt="headerData?.logoalt"/>
         </div>
         <div>
             <HeaderNavWrapper/>
         </div>
         <div class="hidden lg:flex">
-            <HeaderAuth/>
+            <HeaderAuth :header-data="headerData"/>
         </div>
         <div class="lg:hidden flex">
             <Button type="ghost" class="py-3 bg-white xl:hidden" @click="navMenuStore.setMenuVisibility(true)">
