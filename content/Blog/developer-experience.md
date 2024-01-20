@@ -3,15 +3,15 @@ slug: "developer-experience"
 title: "What Is Developer Experience?"
 description: "Why Developer Experience Matters: Easier Software Building - Find out why a good DX is key to helping developers create better software with less stress."
 category: "ecosystem"
-ID: "ed4144322c2b"
-createdAt: "Sat Jan 20 2024 14:35:16 GMT+0300 (GMT+03:00)"
-updatedAt: "Sat Jan 20 2024 14:35:16 GMT+0300 (GMT+03:00)"
-imagesrc: "public/images/1705750433763_browser-1.png"
-imagealt: "developer"
+ID: "eccdef8d-4b03-4c07-8cc7-856dd161afa6"
+slug: "developer-experience"
+image: "https://res.cloudinary.com/dmywgn45o/image/upload/v1701056480/Frame_5611_dou4ss.png"
 authorfullname: "Wordscloud"
 authorjob: "Technical Content Writer"
 authorphotosrc: "https://res.cloudinary.com/dmywgn45o/image/upload/v1697445913/samples/people/boy-snow-hoodie.jpg"
 authordescription: "Rich text editors let users create and edit formatted text even without HTML knowledge by translating text content into styled and rich content. When a user chooses a particular type of style and formatting, this tool translates the style into HTML tags. This means that writers can concentrate on creating developing content without having to worry about the underlying code."
+createdAt: 1701772800647
+updatedAt: 1701855040576
 ---
 
 **Developer Experience** or **DX** concerns how difficult or easy it is for the developers to build software and perform other vital development functions. Unlike development experience, which refers to the amount of experience a software developer has with a particular tool or framework, the developer experience is different.
