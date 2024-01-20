@@ -63,5 +63,18 @@
       },
       "createdAt": "2024-01-20T11:33:55.336Z"
     }
+  },
+  {
+    "path": "public/images/1705750441526_sm-hero.svg",
+    "mimetype": "image/svg+xml",
+    "size": 21830,
+    "meta": {
+      "user": {
+        "name": "Can DEVE",
+        "email": "devecann@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKqhw1I2Z2DLlLkxVas35I4vygqL_fsj2sqLwNFO9PG=s96-c"
+      },
+      "createdAt": "2024-01-20T11:34:02.907Z"
+    }
   }
 ]
