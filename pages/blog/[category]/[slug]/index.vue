@@ -15,7 +15,7 @@
 
             <div class="text-center mb-8">
 
-                <div class="h-20 w-20 rounded-full bg-gray-100 overflow-hidden mx-auto mb-2 border shadow-sm">
+                <div v-if="data?.authorphotosrc" class="h-20 w-20 rounded-full bg-gray-100 overflow-hidden mx-auto mb-2 border shadow-sm">
                     <img height="80" width="80" class="h-full w-full object-cover" :src="data?.authorphotosrc.split('public')[1]" :alt="data?.authorphotoalt"/>
                 </div>
 
