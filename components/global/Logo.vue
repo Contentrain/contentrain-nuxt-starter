@@ -1,6 +1,6 @@
 <template>
     <NuxtLink to="/" title="Contentrain" class="logo">
-        <div v-if="logosrc" class="flex max-w-[189px] h-[38px] aspect-square">
+        <div v-if="logosrc" class="flex max-w-[189px] h-[38px]">
           <img :src="logosrc.split('public')[1]" :alt="logoalt" width="189" height="38"/>
         </div>
     </NuxtLink>
