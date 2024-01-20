@@ -89,5 +89,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "resourcesItems",
+    "modelId": "resourcesitems",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
