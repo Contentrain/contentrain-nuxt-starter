@@ -2,7 +2,7 @@
   <header class="flex">
       <div class="container flex justify-between items-center !px-3">
         <div>
-            <LogoWide :logosrc="headerData?.logosrc" :logoalt="headerData?.logoalt"/>
+            <Logo :logosrc="headerData?.logosrc" :logoalt="headerData?.logoalt"/>
         </div>
         <div>
             <HeaderNavWrapper/>

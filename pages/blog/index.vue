@@ -17,5 +17,4 @@ const resource: ResourcesDataInterface = resourceHeroData[0]
 const resourceItems: ResourcesItemsDataInterface[] = resourceItemsData
 
 const data = await queryContent("blog").find()
-console.log("🚀 ~ data:", data)
 </script>
