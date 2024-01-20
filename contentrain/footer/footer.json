@@ -5,6 +5,8 @@
     "logoalt": "Contentrain",
     "description": "Contentrain is the first Git-based Headless CMS combining the power of Git Architecture and the scalability of Serverless Platforms to streamline content management and collaboration on various digital platforms for developers and content creators.",
     "leftbottomtext": "All rights reserved ® 2023 · Contentrain",
-    "middlebottomtext": "Beaverton, Oregon, U.S"
+    "middlebottomtext": "Beaverton, Oregon, U.S",
+    "status": "publish",
+    "updatedAt": "2024-01-20T11:13:36.074Z"
   }
 ]
