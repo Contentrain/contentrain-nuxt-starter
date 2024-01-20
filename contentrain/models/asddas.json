@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "asddas"
+  },
+  {
+    "name": "cascsa",
+    "fieldId": "cascsa",
+    "modelId": "asddas",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
