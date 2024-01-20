@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "resourcesitems"
+  },
+  {
+    "name": "icon",
+    "fieldId": "icon",
+    "modelId": "resourcesitems",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
