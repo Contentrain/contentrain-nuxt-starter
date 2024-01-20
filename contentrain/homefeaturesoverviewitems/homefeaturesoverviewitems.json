@@ -37,14 +37,14 @@
   },
   {
     "ID": "fdf1dd91a126",
-    "title": "Serverless collections",
-    "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
-    "imagesrc": "public/images/browser-1.png",
-    "imagealt": "",
-    "buttonlabel": "",
-    "buttonlink": "",
-    "status": "publish",
     "createdAt": "2024-01-20T11:35:16.000Z",
-    "updatedAt": "2024-01-20T13:35:37.715Z"
+    "updatedAt": "2024-01-20T19:31:39.965Z",
+    "status": "publish",
+    "title": "New content schema tool",
+    "description": "With a great new content schema creation tool, you'll be able to create your content models easier than ever.",
+    "imagesrc": "public/images/1705779066075_schema.svg",
+    "imagealt": "content schema",
+    "buttonlabel": "Discover more",
+    "buttonlink": "https://contentrain.io/"
   }
 ]
