@@ -1,7 +1,7 @@
 ---
 ID: "92e8eb7c453b"
 createdAt: "2024-01-20T17:37:24.000Z"
-updatedAt: "2024-01-20T20:40:31.118Z"
+updatedAt: "2024-01-20T20:41:37.909Z"
 status: "draft"
 slug: "contentrain-2.0-roadmap"
 title: "Contentain 2.0 Roadmap"
