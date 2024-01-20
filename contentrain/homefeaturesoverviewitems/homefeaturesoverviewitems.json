@@ -25,15 +25,15 @@
   },
   {
     "ID": "fdf1dd91a125",
-    "title": "User workflows",
-    "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
-    "imagesrc": "public/images/browser-1.png",
-    "imagealt": "",
-    "buttonlabel": "",
-    "buttonlink": "",
-    "status": "publish",
     "createdAt": "2024-01-20T11:35:16.000Z",
-    "updatedAt": "2024-01-20T13:35:37.715Z"
+    "updatedAt": "2024-01-20T19:25:32.012Z",
+    "status": "publish",
+    "title": "User workflows",
+    "description": "You will now take your content management to a higher level with advanced user flows.",
+    "imagesrc": "public/images/1705778635538_version.svg",
+    "imagealt": "user workflow",
+    "buttonlabel": "Discover more",
+    "buttonlink": "https://contentrain.io/"
   },
   {
     "ID": "fdf1dd91a126",
