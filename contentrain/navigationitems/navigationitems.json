@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Blog",
+    "to": "/blog"
+  },
+  {
+    "name": "Use case",
+    "to": "/use-case"
+  }
+]
