@@ -1,12 +1,5 @@
 [
   {
-    "name": "buttonCategories",
-    "modelId": "buttoncategories",
-    "localization": false,
-    "type": "JSON",
-    "createdBy": "user"
-  },
-  {
     "name": "blogHero",
     "modelId": "bloghero",
     "localization": false,
