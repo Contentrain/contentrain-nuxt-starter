@@ -245,5 +245,18 @@
       },
       "createdAt": "2024-01-20T20:18:32.305Z"
     }
+  },
+  {
+    "path": "public/images/1705781947129_blog cover.svg",
+    "mimetype": "image/svg+xml",
+    "size": 32430,
+    "meta": {
+      "user": {
+        "name": "Sercan Oray",
+        "email": "oraysercan@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIfbeqD6ZvisOe-Bw2iam6IedU0BMs3wcz-QXyuA4tw-a8=s96-c"
+      },
+      "createdAt": "2024-01-20T20:19:08.744Z"
+    }
   }
 ]
