@@ -2,10 +2,10 @@
   {
     "ID": "fdf1dd91a0b8",
     "createdAt": "2024-01-20T11:35:16.000Z",
-    "updatedAt": "2024-01-20T18:20:33.550Z",
+    "updatedAt": "2024-01-20T18:23:58.858Z",
     "status": "publish",
-    "title": "Welcome to the Next Level of Contentrain – Your Favorite Git CMS, Upgraded",
-    "description": "Explore the new Contentrain: an upgraded Git-based CMS designed for today's dynamic content needs. We've enhanced our platform with better integration, improved performance, and user-friendly interfaces. Enjoy simplified content management with robust version control, tailored for modern web development. Contentrain's latest upgrade makes it easier and more efficient to manage diverse digital platforms. Experience the upgraded difference with Contentrain – where innovation meets simplicity.",
+    "title": "Your Favorite Git-based Headless CMS, Upgraded",
+    "description": "Explore the new Contentrain: an upgraded Git-based CMS designed for today's dynamic content needs. We've enhanced our platform with better integration, improved performance, and user-friendly interfaces.",
     "imagesrc": "public/images/1705774092611_hero image.svg",
     "imagealt": "Contentrain hero image",
     "leftbuttonlabel": "Home page",
