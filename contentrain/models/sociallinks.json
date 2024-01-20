@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "sociallinks"
+  },
+  {
+    "name": "name",
+    "fieldId": "name",
+    "modelId": "sociallinks",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
