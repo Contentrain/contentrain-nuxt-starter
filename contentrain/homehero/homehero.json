@@ -2,15 +2,15 @@
   {
     "ID": "fdf1dd91a0b8",
     "createdAt": "2024-01-20T11:35:16.000Z",
-    "updatedAt": "2024-01-20T13:57:00.205Z",
+    "updatedAt": "2024-01-20T18:20:33.550Z",
     "status": "publish",
-    "title": "Bir Headless CMS Hikayesi",
-    "description": "With the GIT version control system, collaboration is streamlined, while the integration of Serverless Platforms ensures real-time updates and scalability.",
-    "imagesrc": "public/images/1705755272003_mail.png",
-    "imagealt": "Contentrain app view",
-    "leftbuttonlabel": "See live demo",
+    "title": "Welcome to the Next Level of Contentrain – Your Favorite Git CMS, Upgraded",
+    "description": "Explore the new Contentrain: an upgraded Git-based CMS designed for today's dynamic content needs. We've enhanced our platform with better integration, improved performance, and user-friendly interfaces. Enjoy simplified content management with robust version control, tailored for modern web development. Contentrain's latest upgrade makes it easier and more efficient to manage diverse digital platforms. Experience the upgraded difference with Contentrain – where innovation meets simplicity.",
+    "imagesrc": "public/images/1705774092611_hero image.svg",
+    "imagealt": "Contentrain hero image",
+    "leftbuttonlabel": "Home page",
     "leftbuttonlink": "https://contentrain.io",
-    "rightbuttonlabel": "Get started — Free",
-    "rightbuttonlink": "https://contentrain.io"
+    "rightbuttonlabel": "Vote us on PH",
+    "rightbuttonlink": "https://www.producthunt.com/posts/contentrain-2"
   }
 ]
