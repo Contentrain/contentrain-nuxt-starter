@@ -85,5 +85,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "color",
+    "fieldId": "color",
+    "modelId": "resourcesitems",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
