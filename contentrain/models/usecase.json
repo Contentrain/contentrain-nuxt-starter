@@ -1,0 +1,212 @@
+[
+  {
+    "name": "slug",
+    "fieldId": "slug",
+    "componentId": "slug",
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "options": {},
+    "fieldType": "string",
+    "system": false,
+    "defaultField": true,
+    "modelId": "usecase"
+  },
+  {
+    "name": "content",
+    "fieldId": "content",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "system": false,
+    "defaultField": true,
+    "modelId": "usecase"
+  },
+  {
+    "name": "createdAt",
+    "fieldId": "createdAt",
+    "componentId": "date",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "date",
+    "system": true,
+    "defaultField": false,
+    "modelId": "usecase"
+  },
+  {
+    "name": "updatedAt",
+    "fieldId": "updatedAt",
+    "componentId": "date",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "date",
+    "system": true,
+    "defaultField": false,
+    "modelId": "usecase"
+  },
+  {
+    "name": "ID",
+    "fieldId": "ID",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "system": true,
+    "defaultField": false,
+    "modelId": "usecase"
+  },
+  {
+    "name": "status",
+    "fieldId": "status",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "system": true,
+    "defaultField": false,
+    "modelId": "usecase"
+  },
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "usecase",
+    "componentId": "single-line-text",
+    "options": {
+      "title-field": {
+        "value": false
+      },
+      "default-value": {
+        "value": false
+      }
+    },
+    "validations": {
+      "required-field": {
+        "value": true
+      },
+      "unique-field": {
+        "value": false
+      }
+    },
+    "fieldType": "string"
+  },
+  {
+    "name": "description",
+    "fieldId": "description",
+    "modelId": "usecase",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string"
+  },
+  {
+    "name": "category",
+    "fieldId": "category",
+    "modelId": "usecase",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string"
+  },
+  {
+    "name": "imageSrc",
+    "fieldId": "imagesrc",
+    "modelId": "usecase",
+    "componentId": "media",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": false
+      }
+    },
+    "fieldType": "string"
+  },
+  {
+    "name": "imageAlt",
+    "fieldId": "imagealt",
+    "modelId": "usecase",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "authorFullName",
+    "fieldId": "authorfullname",
+    "modelId": "usecase",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "authorJob",
+    "fieldId": "authorjob",
+    "modelId": "usecase",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "authorPhotoSrc",
+    "fieldId": "authorphotosrc",
+    "modelId": "usecase",
+    "componentId": "media",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": false
+      }
+    },
+    "fieldType": "string"
+  },
+  {
+    "name": "authorPhotoAlt",
+    "fieldId": "authorphotoalt",
+    "modelId": "usecase",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "authorDescription",
+    "fieldId": "authordescription",
+    "modelId": "usecase",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]

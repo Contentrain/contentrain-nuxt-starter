@@ -4,6 +4,5 @@ export const navMenuStore = reactive({
   show: false,
   setMenuVisibility(value: boolean) {
     this.show = value;
-    console.log(value);
   },
 });

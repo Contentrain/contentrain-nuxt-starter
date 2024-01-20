@@ -1,12 +1,5 @@
 [
   {
-    "name": "buttonCategories",
-    "modelId": "buttoncategories",
-    "localization": false,
-    "type": "JSON",
-    "createdBy": "user"
-  },
-  {
     "name": "blogHero",
     "modelId": "bloghero",
     "localization": false,
@@ -81,6 +74,50 @@
     "modelId": "footerbanner",
     "localization": false,
     "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "blogCategories",
+    "modelId": "blogcategories",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "resourcesHero",
+    "modelId": "resourceshero",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "resourcesItems",
+    "modelId": "resourcesitems",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "socialLinks",
+    "modelId": "sociallinks",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
+  },
+  {
+    "name": "blog",
+    "modelId": "blog",
+    "path": "content/Blog",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user"
+  },
+  {
+    "name": "useCase",
+    "modelId": "usecase",
+    "path": "content/Use-case",
+    "localization": false,
+    "type": "MD",
     "createdBy": "user"
   }
 ]

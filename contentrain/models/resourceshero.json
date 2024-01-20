@@ -12,7 +12,7 @@
     "fieldType": "date",
     "system": true,
     "defaultField": false,
-    "modelId": "homecollaborateteams"
+    "modelId": "resourceshero"
   },
   {
     "name": "updatedAt",
@@ -27,7 +27,7 @@
     "fieldType": "date",
     "system": true,
     "defaultField": false,
-    "modelId": "homecollaborateteams"
+    "modelId": "resourceshero"
   },
   {
     "name": "ID",
@@ -42,7 +42,7 @@
     "fieldType": "string",
     "system": true,
     "defaultField": false,
-    "modelId": "homecollaborateteams"
+    "modelId": "resourceshero"
   },
   {
     "name": "status",
@@ -57,12 +57,12 @@
     "fieldType": "string",
     "system": true,
     "defaultField": false,
-    "modelId": "homecollaborateteams"
+    "modelId": "resourceshero"
   },
   {
     "name": "title",
     "fieldId": "title",
-    "modelId": "homecollaborateteams",
+    "modelId": "resourceshero",
     "componentId": "single-line-text",
     "options": {},
     "validations": {},
@@ -71,52 +71,7 @@
   {
     "name": "subtitle",
     "fieldId": "subtitle",
-    "modelId": "homecollaborateteams",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
-    "name": "description",
-    "fieldId": "description",
-    "modelId": "homecollaborateteams",
-    "componentId": "multi-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
-    "name": "imageSrc",
-    "fieldId": "imagesrc",
-    "modelId": "homecollaborateteams",
-    "componentId": "media",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
-    "name": "imageAlt",
-    "fieldId": "imagealt",
-    "modelId": "homecollaborateteams",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "array"
-  },
-  {
-    "name": "buttonLabel",
-    "fieldId": "buttonlabel",
-    "modelId": "homecollaborateteams",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "array"
-  },
-  {
-    "name": "buttonLink",
-    "fieldId": "buttonlink",
-    "modelId": "homecollaborateteams",
+    "modelId": "resourceshero",
     "componentId": "single-line-text",
     "options": {},
     "validations": {},

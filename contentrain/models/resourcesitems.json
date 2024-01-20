@@ -12,7 +12,7 @@
     "fieldType": "date",
     "system": true,
     "defaultField": false,
-    "modelId": "homecollaborateteams"
+    "modelId": "resourcesitems"
   },
   {
     "name": "updatedAt",
@@ -27,7 +27,7 @@
     "fieldType": "date",
     "system": true,
     "defaultField": false,
-    "modelId": "homecollaborateteams"
+    "modelId": "resourcesitems"
   },
   {
     "name": "ID",
@@ -42,7 +42,7 @@
     "fieldType": "string",
     "system": true,
     "defaultField": false,
-    "modelId": "homecollaborateteams"
+    "modelId": "resourcesitems"
   },
   {
     "name": "status",
@@ -57,66 +57,39 @@
     "fieldType": "string",
     "system": true,
     "defaultField": false,
-    "modelId": "homecollaborateteams"
+    "modelId": "resourcesitems"
+  },
+  {
+    "name": "icon",
+    "fieldId": "icon",
+    "modelId": "resourcesitems",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   },
   {
     "name": "title",
     "fieldId": "title",
-    "modelId": "homecollaborateteams",
+    "modelId": "resourcesitems",
     "componentId": "single-line-text",
     "options": {},
     "validations": {},
     "fieldType": "string"
   },
   {
-    "name": "subtitle",
-    "fieldId": "subtitle",
-    "modelId": "homecollaborateteams",
+    "name": "link",
+    "fieldId": "link",
+    "modelId": "resourcesitems",
     "componentId": "single-line-text",
     "options": {},
     "validations": {},
     "fieldType": "string"
   },
   {
-    "name": "description",
-    "fieldId": "description",
-    "modelId": "homecollaborateteams",
-    "componentId": "multi-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
-    "name": "imageSrc",
-    "fieldId": "imagesrc",
-    "modelId": "homecollaborateteams",
-    "componentId": "media",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
-    "name": "imageAlt",
-    "fieldId": "imagealt",
-    "modelId": "homecollaborateteams",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "array"
-  },
-  {
-    "name": "buttonLabel",
-    "fieldId": "buttonlabel",
-    "modelId": "homecollaborateteams",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "array"
-  },
-  {
-    "name": "buttonLink",
-    "fieldId": "buttonlink",
-    "modelId": "homecollaborateteams",
+    "name": "color",
+    "fieldId": "color",
+    "modelId": "resourcesitems",
     "componentId": "single-line-text",
     "options": {},
     "validations": {},

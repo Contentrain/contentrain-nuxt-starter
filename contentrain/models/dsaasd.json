@@ -1,5 +1,35 @@
 [
   {
+    "name": "slug",
+    "fieldId": "slug",
+    "componentId": "slug",
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "options": {},
+    "fieldType": "string",
+    "system": false,
+    "defaultField": true,
+    "modelId": "dsaasd"
+  },
+  {
+    "name": "content",
+    "fieldId": "content",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "system": false,
+    "defaultField": true,
+    "modelId": "dsaasd"
+  },
+  {
     "name": "createdAt",
     "fieldId": "createdAt",
     "componentId": "date",
@@ -12,7 +42,7 @@
     "fieldType": "date",
     "system": true,
     "defaultField": false,
-    "modelId": "navigationitems"
+    "modelId": "dsaasd"
   },
   {
     "name": "updatedAt",
@@ -27,7 +57,7 @@
     "fieldType": "date",
     "system": true,
     "defaultField": false,
-    "modelId": "navigationitems"
+    "modelId": "dsaasd"
   },
   {
     "name": "ID",
@@ -42,7 +72,7 @@
     "fieldType": "string",
     "system": true,
     "defaultField": false,
-    "modelId": "navigationitems"
+    "modelId": "dsaasd"
   },
   {
     "name": "status",
@@ -57,24 +87,6 @@
     "fieldType": "string",
     "system": true,
     "defaultField": false,
-    "modelId": "navigationitems"
-  },
-  {
-    "name": "name",
-    "fieldId": "name",
-    "modelId": "navigationitems",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "array"
-  },
-  {
-    "name": "to",
-    "fieldId": "to",
-    "modelId": "navigationitems",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "date"
+    "modelId": "dsaasd"
   }
 ]

@@ -12,7 +12,7 @@
     "fieldType": "date",
     "system": true,
     "defaultField": false,
-    "modelId": "homefeaturesoverviewitems"
+    "modelId": "sociallinks"
   },
   {
     "name": "updatedAt",
@@ -27,7 +27,7 @@
     "fieldType": "date",
     "system": true,
     "defaultField": false,
-    "modelId": "homefeaturesoverviewitems"
+    "modelId": "sociallinks"
   },
   {
     "name": "ID",
@@ -42,7 +42,7 @@
     "fieldType": "string",
     "system": true,
     "defaultField": false,
-    "modelId": "homefeaturesoverviewitems"
+    "modelId": "sociallinks"
   },
   {
     "name": "status",
@@ -57,57 +57,21 @@
     "fieldType": "string",
     "system": true,
     "defaultField": false,
-    "modelId": "homefeaturesoverviewitems"
+    "modelId": "sociallinks"
   },
   {
-    "name": "title",
-    "fieldId": "title",
-    "modelId": "homefeaturesoverviewitems",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "array"
-  },
-  {
-    "name": "description",
-    "fieldId": "description",
-    "modelId": "homefeaturesoverviewitems",
+    "name": "name",
+    "fieldId": "name",
+    "modelId": "sociallinks",
     "componentId": "single-line-text",
     "options": {},
     "validations": {},
     "fieldType": "string"
   },
   {
-    "name": "imageSrc",
-    "fieldId": "imagesrc",
-    "modelId": "homefeaturesoverviewitems",
-    "componentId": "media",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
-    "name": "imageAlt",
-    "fieldId": "imagealt",
-    "modelId": "homefeaturesoverviewitems",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "array"
-  },
-  {
-    "name": "buttonLabel",
-    "fieldId": "buttonlabel",
-    "modelId": "homefeaturesoverviewitems",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "array"
-  },
-  {
-    "name": "buttonLink",
-    "fieldId": "buttonlink",
-    "modelId": "homefeaturesoverviewitems",
+    "name": "link",
+    "fieldId": "link",
+    "modelId": "sociallinks",
     "componentId": "single-line-text",
     "options": {},
     "validations": {},
