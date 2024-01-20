@@ -93,7 +93,7 @@
     "componentId": "single-line-text",
     "options": {},
     "validations": {},
-    "fieldType": "array"
+    "fieldType": "string"
   },
   {
     "name": "imageSrc",

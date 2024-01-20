@@ -93,7 +93,7 @@
     "componentId": "multi-line-text",
     "options": {},
     "validations": {},
-    "fieldType": "array"
+    "fieldType": "string"
   },
   {
     "name": "leftButtonLabel",
