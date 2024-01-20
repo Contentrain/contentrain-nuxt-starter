@@ -26,10 +26,10 @@
   {
     "ID": "fdf1dd91a125",
     "createdAt": "2024-01-20T11:35:16.000Z",
-    "updatedAt": "2024-01-20T19:25:32.012Z",
+    "updatedAt": "2024-01-20T19:49:36.482Z",
     "status": "publish",
     "title": "User workflows",
-    "description": "You will now take your content management to a higher level with advanced user flows.",
+    "description": "This feature ensures a smoother, more coherent journey from concept to completion, enhancing collaboration among team members and reducing the time spent on content administration.",
     "imagesrc": "public/images/1705778635538_version.svg",
     "imagealt": "user workflow",
     "buttonlabel": "Discover more",
