@@ -19,7 +19,7 @@
                 <div class="flex items-center mb-6">
 
                     <div class="h-16 w-16 rounded-full bg-gray-100 overflow-hidden border shadow-sm">
-                        <img height="64" width="64" class="h-full w-full object-cover" :src="splitAssetLink(detail?.authorphotosrc)" :alt="detail?.authorphotoalt"/>
+                        <img height="64" width="64" class="h-full w-full object-cover" :src="(detail?.authorphotosrc)" :alt="detail?.authorphotoalt"/>
                     </div>
 
                     <div class="pl-2 text-left">

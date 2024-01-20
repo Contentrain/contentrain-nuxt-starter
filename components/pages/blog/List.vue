@@ -18,7 +18,7 @@
             />
             <img
               class="object-contain"
-              :src="splitAssetLink(post.image)"
+              :src="(post.image)"
             />
           </div>
           <div class="pt-6 sm:pr-4">
