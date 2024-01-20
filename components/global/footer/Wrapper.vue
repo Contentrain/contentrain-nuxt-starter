@@ -8,7 +8,7 @@
 
                 <div class="text-center mb-10 md:mb-16">
 
-                    <Logo :logo-src="footerData?.logoSrc" :logo-alt="footerData?.logoAlt"/>
+                    <Logo :logo-src="footerData?.logosrc" :logo-alt="footerData?.logoalt"/>
 
                     <p class="block xl:max-w-5xl text-sm md:text-base text-gray-600 mx-auto"
                     v-text="footerData?.description"/>
@@ -18,11 +18,11 @@
                 <div class="flex flex-wrap lg:flex-nowrap border-t py-3 md:mt-6 text-sm text-gray-700 text-center">
 
                     <div class="w-full lg:w-3/1 py-2 lg:py-1 md:text-left">
-                        <span v-text="footerData?.leftBottomText"/>
+                        <span v-text="footerData?.leftbottomtext"/>
                     </div>
 
                     <div class="w-full lg:w-3/1 py-2 lg:py-1 md:text-center">
-                        <span v-text="footerData?.middleBottomText"/>
+                        <span v-text="footerData?.middlebottomtext"/>
                     </div>
 
                     <div class="w-full lg:w-3/1 py-2 lg:py-1">

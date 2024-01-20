@@ -1,16 +1,16 @@
 <template>
     <NuxtLink to="/" title="Contentrain" class="logo">
-        <img :src="logoSrc" :alt="logoAlt" width="189" height="38"/>
+        <img :src="logosrc" :alt="logoalt" width="189" height="38"/>
     </NuxtLink>
 </template>
 <script setup lang="ts">
 
 defineProps({
-  logoSrc : {
+  logosrc : {
     type: String,
     deafult: "/images/logo.svg"
   },
-  logoAlt : {
+  logoalt : {
     type: String,
     default: "Contentrain"
   },

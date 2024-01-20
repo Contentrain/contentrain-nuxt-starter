@@ -1,10 +1,10 @@
 [
   {
-    "logoSrc": "/images/logo.svg",
-    "logoAlt": "Contentrain",
-    "leftButtonLabel": "See live demo",
-    "leftButtonLink": "https://contentrain.io",
-    "rightButtonLabel": "Get started — Free",
-    "rightButtonLink": "https://contentrain.io"
+    "logosrc": "/images/logo.svg",
+    "logoalt": "Contentrain",
+    "leftbuttonlabel": "See live demo",
+    "leftbuttonlink": "https://contentrain.io",
+    "rightbuttonlabel": "Get started — Free",
+    "rightbuttonlink": "https://contentrain.io"
   }
 ]

@@ -13,11 +13,11 @@
             </p>
 
             <div class="flex justify-center w-full mb-10 lg:mb-16">
-                <Button :label="heroData?.leftButtonLabel" class="mr-1"></Button>
+                <Button :label="heroData?.leftbuttonlabel" class="mr-1"></Button>
                 <Button type="ghost" label="Get started — Free" class="ml-1"></Button>
             </div>
 
-            <img :src="heroData?.imageSrc" :alt="heroData?.imageAlt" class="max-w-7xl w-full">
+            <img :src="heroData?.imagesrc" :alt="heroData?.imagealt" class="max-w-7xl w-full">
 
         </div>
     </section>
@@ -28,12 +28,12 @@ import type { PropType } from 'vue'
 export interface HeroDataInterface {
     title: string
     description: string
-    imageSrc: string
-    imageAlt: string
-    leftButtonLabel: string
-    leftButtonLink: string
-    rightButtonLabel: string
-    rightButtonLink: string
+    imagesrc: string
+    imagealt: string
+    leftbuttonlabel: string
+    leftbuttonlink: string
+    rightbuttonlabel: string
+    rightbuttonlink: string
 }
 defineProps({
   heroData : {

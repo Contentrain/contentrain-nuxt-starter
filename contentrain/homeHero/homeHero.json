@@ -2,11 +2,11 @@
   {
     "title": "More than a Git CMS",
     "description": "With the GIT version control system, collaboration is streamlined, while the integration of Serverless Platforms ensures real-time updates and scalability.",
-    "imageSrc": "/images/browser-1.png",
-    "imageAlt": "Contentrain app view",
-    "leftButtonLabel": "See live demo",
-    "leftButtonLink": "https://contentrain.io",
-    "rightButtonLabel": "Get started — Free",
-    "rightButtonLink": "https://contentrain.io"
+    "imagesrc": "/images/browser-1.png",
+    "imagealt": "Contentrain app view",
+    "leftbuttonlabel": "See live demo",
+    "leftbuttonlink": "https://contentrain.io",
+    "rightbuttonlabel": "Get started — Free",
+    "rightbuttonlink": "https://contentrain.io"
   }
 ]
