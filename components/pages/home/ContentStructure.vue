@@ -23,7 +23,7 @@
 
             <div v-if="contentStructure" class="h-[220px] w-[80%] xl:w-[60%] mx-auto rounded-t-lg">
                 <img
-                    :src="splitAssetLink(contentStructure.imagesrc)" :alt="contentStructure?.imagealt"
+                    :src="(contentStructure.imagesrc)" :alt="contentStructure?.imagealt"
                     height="200" width="100%" class="h-full w-full object-cover rounded-t-lg"/>
             </div>
 

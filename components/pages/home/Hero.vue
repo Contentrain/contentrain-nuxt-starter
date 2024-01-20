@@ -18,7 +18,7 @@
             </div>
 
             <div v-if="heroData">
-                <img :src="splitAssetLink(heroData?.imagesrc)" :alt="heroData?.imagealt" class="max-w-7xl w-full">
+                <img :src="(heroData?.imagesrc)" :alt="heroData?.imagealt" class="max-w-7xl w-full">
             </div>
 
         </div>
