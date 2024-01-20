@@ -115,5 +115,18 @@
       },
       "createdAt": "2024-01-20T15:49:01.589Z"
     }
+  },
+  {
+    "path": "public/images/1705771467076_boy-snow-hoodie.jpg",
+    "mimetype": "image/jpeg",
+    "size": 581238,
+    "meta": {
+      "user": {
+        "name": "Can DEVE",
+        "email": "devecann@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKqhw1I2Z2DLlLkxVas35I4vygqL_fsj2sqLwNFO9PG=s96-c"
+      },
+      "createdAt": "2024-01-20T17:24:29.028Z"
+    }
   }
 ]
