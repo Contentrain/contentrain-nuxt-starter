@@ -2,9 +2,9 @@
   {
     "ID": "fdf1dd91a0b8",
     "createdAt": "2024-01-20T11:35:16.000Z",
-    "updatedAt": "2024-01-20T13:35:37.715Z",
+    "updatedAt": "2024-01-20T13:56:41.513Z",
     "status": "publish",
-    "title": "More than a Git CMS",
+    "title": "Bir Headlss CMS Hikayesi",
     "description": "With the GIT version control system, collaboration is streamlined, while the integration of Serverless Platforms ensures real-time updates and scalability.",
     "imagesrc": "public/images/1705755272003_mail.png",
     "imagealt": "Contentrain app view",
