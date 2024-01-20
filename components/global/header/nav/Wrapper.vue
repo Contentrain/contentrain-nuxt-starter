@@ -22,7 +22,7 @@
 <script setup lang="ts">
 
 import { navMenuStore } from '#imports';
-import navigationItems from '../../../../contentrain/navigationItems/navigationItems.json'
+import navigationItems from '../../../../contentrain/navigationitems/navigationitems.json'
 const navigationItemsData = navigationItems
 
 const closeNavMenu = (): void => {
