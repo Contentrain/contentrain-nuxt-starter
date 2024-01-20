@@ -167,5 +167,18 @@
       },
       "createdAt": "2024-01-20T18:59:00.683Z"
     }
+  },
+  {
+    "path": "public/images/1705778124461_Webhooks.svg",
+    "mimetype": "image/svg+xml",
+    "size": 2157051,
+    "meta": {
+      "user": {
+        "name": "Sercan Oray",
+        "email": "oraysercan@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIfbeqD6ZvisOe-Bw2iam6IedU0BMs3wcz-QXyuA4tw-a8=s96-c"
+      },
+      "createdAt": "2024-01-20T19:15:26.996Z"
+    }
   }
 ]
