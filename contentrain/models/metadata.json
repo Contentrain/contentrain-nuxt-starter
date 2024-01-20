@@ -89,12 +89,5 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
-  },
-  {
-    "name": "dsaasd",
-    "modelId": "dsaasd",
-    "localization": false,
-    "type": "MD",
-    "createdBy": "user"
   }
 ]
