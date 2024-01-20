@@ -82,5 +82,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "denemeModel",
+    "modelId": "denememodel",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
