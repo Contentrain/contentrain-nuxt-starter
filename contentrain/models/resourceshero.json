@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "resourceshero"
+  },
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "resourceshero",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
