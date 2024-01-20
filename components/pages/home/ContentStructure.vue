@@ -21,7 +21,7 @@
                 <Button class="mr-1" :href="contentStructure?.buttonlink">{{contentStructure?.buttonlabel}}</Button>
             </div>
 
-            <div class="h-[220px] w-[80%] xl:w-[60%] mx-auto rounded-t-lg">
+            <div v-if="contentStructure" class="h-[220px] w-[80%] xl:w-[60%] mx-auto rounded-t-lg">
                 <img
                     :src="splitAssetLink(contentStructure?.imagesrc)" :alt="contentStructure?.imagealt"
                     height="200" width="100%" class="h-full w-full object-cover rounded-t-lg"/>

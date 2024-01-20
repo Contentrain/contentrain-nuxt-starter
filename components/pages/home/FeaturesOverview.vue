@@ -45,7 +45,7 @@
 
               <div class="border-t border-l border-r rounded-t-xl h-[230px] overflow-hidden mt-6">
                 <img
-                    :src="item.imagesrc" :alt="item.imagealt"
+                    :src="splitAssetLink(item.imagesrc)" :alt="item.imagealt"
                     height="200" width="100%" class="h-full w-full object-cover"/>
               </div>
 
