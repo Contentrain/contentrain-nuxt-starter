@@ -103,5 +103,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "blog",
+    "modelId": "blog",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user"
   }
 ]
