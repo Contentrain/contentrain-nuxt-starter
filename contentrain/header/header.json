@@ -1,14 +1,14 @@
 [
   {
     "ID": "fdf1dd91a0b8",
-    "logosrc": "/images/logo.svg",
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T14:37:32.926Z",
+    "status": "publish",
+    "logosrc": "public/images/1705761441432_mail.jpg",
     "logoalt": "Contentrain",
     "leftbuttonlabel": "Login",
     "leftbuttonlink": "https://contentrain.io",
     "rightbuttonlabel": "Sign up",
-    "rightbuttonlink": "https://contentrain.io",
-    "status": "publish",
-    "createdAt": "2024-01-20T11:35:16.000Z",
-    "updatedAt": "2024-01-20T13:35:37.715Z"
+    "rightbuttonlink": "https://contentrain.io"
   }
 ]
