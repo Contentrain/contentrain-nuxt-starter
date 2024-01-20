@@ -1,5 +1,15 @@
 [
   {
+    "ID": "fdf1dd91a0b0",
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T18:29:12.073Z",
+    "icon": "file",
+    "title": "Best Git CMS for Nuxt.js",
+    "description": "Contentrain is the best git-based Headless CMS for Nuxt. Developers and Enterprises love using Contentrain with their Nuxt projects.",
+    "buttonlabel": "Learn more",
+    "buttonlink": "https://contentrain.io"
+  },
+  {
     "ID": "fdf1dd91a0b8",
     "icon": "file",
     "title": "Combining Git & Serverless platforms",
@@ -13,16 +23,6 @@
     "ID": "fdf1dd91a0b9",
     "icon": "file",
     "title": "Benefits of Git architecture",
-    "description": "Lorem ipsum dolor sit amet consectetur. Tempor non non ornare dui a cras tristique congue. Urna sed commodo cras senectus amet vestibulum.",
-    "buttonlabel": "Learn more",
-    "buttonlink": "https://contentrain.io",
-    "createdAt": "2024-01-20T11:35:16.000Z",
-    "updatedAt": "2024-01-20T13:35:37.715Z"
-  },
-  {
-    "ID": "fdf1dd91a0b0",
-    "icon": "file",
-    "title": "Why Headless over Monolitic?",
     "description": "Lorem ipsum dolor sit amet consectetur. Tempor non non ornare dui a cras tristique congue. Urna sed commodo cras senectus amet vestibulum.",
     "buttonlabel": "Learn more",
     "buttonlink": "https://contentrain.io",
