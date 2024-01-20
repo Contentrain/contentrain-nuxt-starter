@@ -1,6 +1,19 @@
 [
   {
     "ID": "fdf1dd91a7b8",
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T20:14:33.996Z",
+    "status": "publish",
+    "title": "We share our experience It’s more than a blog",
+    "description": "We share our product updates, new features and Headless CMS ecosystem knowledge.",
+    "imagesrc": "public/images/browser-1.png",
+    "imagealt": "Contentrain app view",
+    "leftbuttonlabel": "See live demo",
+    "leftbuttonlink": "https://contentrain.io",
+    "rightbuttonlabel": "Get started — Free",
+    "rightbuttonlink": "https://contentrain.io"
+  },
+  {
     "title": "We share our experience It’s more than a blog",
     "description": " With the GIT version control system, collaboration is streamlined, while the integration of Serverless Platforms ensures real-time updates and scalability.",
     "imagesrc": "public/images/browser-1.png",
