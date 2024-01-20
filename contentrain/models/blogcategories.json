@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "blogcategories"
+  },
+  {
+    "name": "name",
+    "fieldId": "name",
+    "modelId": "blogcategories",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
