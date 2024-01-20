@@ -1,8 +1,38 @@
 [
   {
-    "name": "Company",
-    "link": "/blog/company",
+        "name": "All articles",
+        "link": "/blog",
     "status": "publish",
     "updatedAt": "2024-01-20T10:06:41.523Z"
-  }
+    },
+    {
+        "name": "Product",
+        "link": "/blog/product",
+      "status": "publish",
+    "updatedAt": "2024-01-20T10:06:41.523Z"
+    },
+    {
+        "name": "Ecosystem",
+        "link": "/blog/ecosystem",
+      "status": "publish",
+    "updatedAt": "2024-01-20T10:06:41.523Z"
+    },
+    {
+        "name": "How to guides",
+        "link": "/blog/how-to-guides",
+      "status": "publish",
+    "updatedAt": "2024-01-20T10:06:41.523Z"
+    },
+    {
+        "name": "Events",
+        "link": "/blog/events",
+      "status": "publish",
+    "updatedAt": "2024-01-20T10:06:41.523Z"
+    },
+    {
+        "name": "Company",
+        "link": "/blog/company",
+      "status": "publish",
+    "updatedAt": "2024-01-20T10:06:41.523Z"
+    }
 ]
