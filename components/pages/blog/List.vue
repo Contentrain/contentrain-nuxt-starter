@@ -8,7 +8,7 @@
         :key="post.slug"
       >
         <div class="blog-card w-full md:w-1/3 px-2 pt-4 pb-12 group">
-          <nuxt-link :to="`blog/${post.category}/${post.slug}`">
+          <nuxt-link :to="`/${post.category}/${post.slug}`">
           <div
             class="w-full aspect-video rounded-lg overflow-hidden relative group-hover:shadow-[0_0_0_4px_rgba(59,130,246,0.40)]"
           >
