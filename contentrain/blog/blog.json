@@ -20,9 +20,9 @@
   {
     "ID": "92e8eb7c453b",
     "createdAt": "2024-01-20T17:37:24.000Z",
-    "updatedAt": "2024-01-22T12:04:28.070Z",
+    "updatedAt": "2024-01-22T16:08:20.406Z",
     "status": "publish",
-    "slug": "contentrain-2.0-roadmap",
+    "slug": "contentrain-roadmap",
     "title": "Contentain 2.0 Roadmap",
     "description": "As a bootstrapped digital product, reaching over 1000 users in a short time with the launch was great but it also brings tough liabilities for the creators of the product. Once a macro-scale product is launched and finds resonance with the users, it's crucial to be prepared for user feedback and new feature requests.",
     "category": "company",
@@ -32,8 +32,8 @@
     "authorjob": "Co-founder / CMO",
     "authorphotosrc": "public/images/1705782599826_sercan.png",
     "authorphotoalt": "sercan image",
-    "path": "content/blog",
-    "authordescription": "Sercan is one of the founding partners of Contentrain. He also serves as Contentrain's CMO, working on both the creative and management sides of the company."
+    "authordescription": "Sercan is one of the founding partners of Contentrain. He also serves as Contentrain's CMO, working on both the creative and management sides of the company.",
+    "path": "content/blog"
   },
   {
     "ID": "9a60da4032a8",
