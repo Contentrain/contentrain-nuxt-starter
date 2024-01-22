@@ -16,6 +16,6 @@ import resourceItemsData from '../../../contentrain/resourcesitems/resourcesitem
 const resource: ResourcesDataInterface = resourceHeroData[0]
 const resourceItems: ResourcesItemsDataInterface[] = resourceItemsData
 
-const splittedRoute = route.path.split('/')[2]
-const data = await queryContent("blog").where({ category: splittedRoute }).find()
+const category = route.params.category as string
+const data = await queryContent("blog").where({ category: category }).find()
 </script>
