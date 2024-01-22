@@ -130,5 +130,14 @@
     "options": {},
     "validations": {},
     "fieldType": "boolean"
+  },
+  {
+    "name": "backgroundImage",
+    "fieldId": "backgroundimage",
+    "modelId": "homehero",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
