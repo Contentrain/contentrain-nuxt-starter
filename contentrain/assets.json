@@ -297,5 +297,18 @@
       },
       "createdAt": "2024-01-22T07:23:55.403Z"
     }
+  },
+  {
+    "path": "public/images/1705914327769_saastanbul image1.png",
+    "mimetype": "image/png",
+    "size": 369271,
+    "meta": {
+      "user": {
+        "name": "Sercan Oray",
+        "email": "oraysercan@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIfbeqD6ZvisOe-Bw2iam6IedU0BMs3wcz-QXyuA4tw-a8=s96-c"
+      },
+      "createdAt": "2024-01-22T09:05:29.632Z"
+    }
   }
 ]
