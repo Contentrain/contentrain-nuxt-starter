@@ -35,10 +35,10 @@
 import type { MarkdownParsedContent } from '@nuxt/content/dist/runtime/types';
 
 const route = useRoute()
-const categoryRoute = route.path.split('/')[2]
-const slug = route.path.split('/')[3]
+const category = route.params.category as string
+const slug = route.params.slug as string
 
 const { data } = await useAsyncData('blogPost', () => queryContent<MarkdownParsedContent>('blog').where({
-    category: {$eq: categoryRoute}, slug: {$eq: slug}
+    category: {$eq: category}, slug: {$eq: slug}
 }).findOne())
 </script>
