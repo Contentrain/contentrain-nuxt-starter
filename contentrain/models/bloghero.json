@@ -130,5 +130,14 @@
     "options": {},
     "validations": {},
     "fieldType": "boolean"
+  },
+  {
+    "name": "background-image",
+    "fieldId": "background-image",
+    "modelId": "bloghero",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
