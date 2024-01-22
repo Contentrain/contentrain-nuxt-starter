@@ -14,7 +14,7 @@
           >
             <span
               class="inline-block border border-gray:50 px-3 py-1 bg-white text-xs font-semibold rounded absolute top-5 left-5 capitalize"
-              v-text="post.category.replaceAll('-',' ')"
+              v-text="post.category"
             />
             <img v-if="post && post.imagesrc"
               class="object-contain"
