@@ -1,20 +1,19 @@
 [
   {
     "ID": "57702e39a774",
-    "createdAt": "Sat Jan 20 2024 19:36:16 GMT+0300 (GMT+03:00)",
-    "updatedAt": "Sat Jan 20 2024 19:36:16 GMT+0300 (GMT+03:00)",
-    "slug": "use-case",
-    "title": "Use-case",
-    "description": "first use case",
+    "createdAt": "2024-01-20T16:36:16.000Z",
+    "updatedAt": "2024-01-22T07:26:45.493Z",
+    "status": "publish",
+    "slug": "example-markdown-format",
+    "title": "Example Markdown format",
+    "description": "You can copy any Markdown example from Milkdown and paste it into the Contentrain MD editor.",
     "category": "use-case",
     "imagesrc": "public/images/1705761441432_mail.jpg",
     "imagealt": "use case mail",
-    "authorfullname": "Can Deve",
-    "authorjob": "Okur yazamaz",
-    "authorphotosrc": "public/images/1705750277507_logo.svg",
-    "authorphotoalt": "gorur duyamaz",
-    "authordescription": "yapar bi seyler ama ne bilmiyorum",
-    "status": "publish",
-    "path": "content/Use-case"
+    "authorfullname": "Contentrain",
+    "authorjob": "Content Writer",
+    "authorphotosrc": "public/images/1705765740106_beyaz zemin 1.png",
+    "authorphotoalt": "logo image",
+    "authordescription": "Headless CMS platform that combines Git Architecture and Serverless Platforms to optimize content management on various digital products for developers and content creators."
   }
 ]
