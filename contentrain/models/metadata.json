@@ -119,5 +119,13 @@
     "localization": false,
     "type": "MD",
     "createdBy": "user"
+  },
+  {
+    "name": "deneme",
+    "modelId": "deneme",
+    "path": "content/deneme",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user"
   }
 ]
