@@ -38,9 +38,9 @@
   {
     "ID": "9a60da4032a8",
     "createdAt": "2024-01-22T10:21:12.000Z",
-    "updatedAt": "2024-01-22T12:04:28.083Z",
+    "updatedAt": "2024-01-22T13:30:29.747Z",
     "status": "publish",
-    "slug": "how-to-create-a-content-model-in-Contentrain",
+    "slug": "how-to-create-a-content-model-in-contentrain",
     "title": "How to create a content model in Contentrain?",
     "description": "Contentrain offers a flexible and intuitive platform for content management, and a fundamental aspect of utilizing its capabilities fully is understanding how to create a content model. This guide will walk you through the process of creating a content model in Contentrain, from initiating a project to adding fields to your model.",
     "category": "How to guides",
@@ -50,7 +50,6 @@
     "authorjob": "Co-founder / CMO",
     "authorphotosrc": "public/images/1705782599826_sercan.png",
     "authorphotoalt": "Sercan image",
-    "path": "content/blog",
     "authordescription": "Sercan is one of the founding partners of Contentrain. He also serves as Contentrain's CMO, working on both the creative and management sides of the company."
   },
   {
