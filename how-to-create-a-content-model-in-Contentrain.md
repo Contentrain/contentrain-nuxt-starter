@@ -1,7 +1,7 @@
 ---
 ID: "9a60da4032a8"
 createdAt: "2024-01-22T10:21:12.000Z"
-updatedAt: "2024-01-22T10:25:51.738Z"
+updatedAt: "2024-01-22T10:26:39.954Z"
 status: "draft"
 slug: "how-to-create-a-content-model-in-Contentrain"
 title: "How to create a content model in Contentrain?"
@@ -9,12 +9,13 @@ description: "Contentrain offers a flexible and intuitive platform for content m
 category: "How to guides"
 imagealt: "2"
 authorfullname: "Sercan Oray"
-authorjob: "1"
+authorjob: "Co-founder / CMO"
 authorphotosrc: "public/images/1705782599826_sercan.png"
 authorphotoalt: "1"
-authordescription: "1"
+authordescription: "Sercan is one of the founding partners of Contentrain. He also serves as Contentrain's CMO, working on both the creative and management sides of the company."
 
 ---
+
 
 ## Introduction
 
