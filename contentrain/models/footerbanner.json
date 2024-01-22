@@ -121,5 +121,14 @@
     "options": {},
     "validations": {},
     "fieldType": "boolean"
+  },
+  {
+    "name": "backgroundImage",
+    "fieldId": "backgroundimage",
+    "modelId": "footerbanner",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
