@@ -1,5 +1,23 @@
 [
   {
+    "ID": "84b8f80da03b",
+    "createdAt": "Mon Jan 22 2024 14:03:30 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Mon Jan 22 2024 14:03:30 GMT+0300 (GMT+03:00)",
+    "slug": "contentrain's-brand-new-look-is-almost-here",
+    "title": "The Exciting Reveal: Contentrain's Brand New Look is Almost Here!",
+    "description": "We're buzzing with excitement and can't wait to share some thrilling news with all of you – the wait is nearly over! 🎉 Get ready to witness a fresh and revitalized Contentrain.",
+    "category": "Product",
+    "imagesrc": "public/images/1705781947129_blog cover.svg",
+    "imagealt": "alt image",
+    "authorfullname": "Deniz Durucan",
+    "authorjob": "Content Developer",
+    "authorphotosrc": "public/images/1705914789245_deniz.png",
+    "authorphotoalt": "deniz image",
+    "authordescription": "a",
+    "status": "draft",
+    "path": "content/blog"
+  },
+  {
     "ID": "92e8eb7c453b",
     "createdAt": "2024-01-20T17:37:24.000Z",
     "updatedAt": "2024-01-21T11:13:43.072Z",
