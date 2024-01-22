@@ -4,6 +4,7 @@
     "name": "All articles",
     "link": "/blog",
     "status": "publish",
+    "createdAt": "2024-01-22T11:03:30.000Z",
     "updatedAt": "2024-01-20T10:06:41.523Z"
   },
   {
@@ -11,6 +12,7 @@
     "name": "Product",
     "link": "/blog/product",
     "status": "publish",
+    "createdAt": "2024-01-22T11:03:30.000Z",
     "updatedAt": "2024-01-20T10:06:41.523Z"
   },
   {
@@ -18,6 +20,7 @@
     "name": "Ecosystem",
     "link": "/blog/ecosystem",
     "status": "publish",
+    "createdAt": "2024-01-22T11:03:30.000Z",
     "updatedAt": "2024-01-20T10:06:41.523Z"
   },
   {
@@ -25,6 +28,7 @@
     "name": "How to guides",
     "link": "/blog/how-to-guides",
     "status": "publish",
+    "createdAt": "2024-01-22T11:03:30.000Z",
     "updatedAt": "2024-01-20T10:06:41.523Z"
   },
   {
@@ -32,6 +36,7 @@
     "name": "Events",
     "link": "/blog/events",
     "status": "publish",
+    "createdAt": "2024-01-22T11:03:30.000Z",
     "updatedAt": "2024-01-20T10:06:41.523Z"
   },
   {
@@ -39,6 +44,7 @@
     "name": "Company",
     "link": "/blog/company",
     "status": "publish",
+    "createdAt": "2024-01-22T11:03:30.000Z",
     "updatedAt": "2024-01-20T10:06:41.523Z"
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "ID": "fdf1dd91a0b8",
+    "status": "publish",
     "name": "Blog",
     "to": "/blog",
     "createdAt": "2024-01-20T11:35:16.000Z",
@@ -8,6 +9,7 @@
   },
   {
     "ID": "fdf1dd91a0b9",
+    "status": "publish",
     "name": "Use case",
     "to": "/contentrain-use-case",
     "createdAt": "2024-01-20T11:35:16.000Z",

@@ -1,6 +1,7 @@
 [
     {
         "ID": "fdf1dd91a123",
+        "status": "publish",
         "icon": "folder-open",
         "title": "Start learning with our Headless CMS Library",
         "link": "https://docs.contentrain.io",
@@ -10,6 +11,7 @@
     },
     {
         "ID": "fdf1dd91a124",
+        "status": "publish",
         "icon": "file-text",
         "title": "Read our Blog",
         "link": "/blog",
@@ -19,6 +21,7 @@
     },
     {
         "ID": "fdf1dd94530b8",
+        "status": "publish",
         "icon": "discord",
         "title": "Join our Discord server",
         "link": "https://discord.gg/gwXkEZHAgT",
@@ -28,6 +31,7 @@
     },
     {
         "ID": "fdf1dd913458",
+        "status": "publish",
         "icon": "play-circle",
         "title": "Watch our product tutorials and learn fast ",
         "link": "https://youtube.com",
