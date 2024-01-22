@@ -107,7 +107,7 @@
   {
     "name": "blog",
     "modelId": "blog",
-    "path": "content/deneme",
+    "path": "content/blog",
     "localization": false,
     "type": "MD",
     "createdBy": "user"
