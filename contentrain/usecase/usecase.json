@@ -1,0 +1,36 @@
+[
+  {
+    "ID": "57702e39a774",
+    "createdAt": "2024-01-20T16:36:16.000Z",
+    "updatedAt": "2024-01-22T07:26:45.493Z",
+    "status": "publish",
+    "slug": "example-markdown-format",
+    "title": "Example Markdown format",
+    "description": "You can copy any Markdown example from Milkdown and paste it into the Contentrain MD editor.",
+    "category": "use-case",
+    "imagesrc": "public/images/1705761441432_mail.jpg",
+    "imagealt": "use case mail",
+    "authorfullname": "Contentrain",
+    "authorjob": "Content Writer",
+    "authorphotosrc": "public/images/1705765740106_beyaz zemin 1.png",
+    "authorphotoalt": "logo image",
+    "authordescription": "Headless CMS platform that combines Git Architecture and Serverless Platforms to optimize content management on various digital products for developers and content creators."
+  },
+  {
+    "ID": "92e8eb7c453c",
+    "createdAt": "2024-01-20T17:37:24.000Z",
+    "updatedAt": "2024-01-22T11:15:52.477Z",
+    "status": "publish",
+    "slug": "contentrain-use-case",
+    "title": "Streamlining Content Management with Contentrain: A Success Story of \"Bloom Digital Agency\"",
+    "description": "Bloom Digital Agency, a mid-sized digital marketing agency, faced challenges managing their diverse content needs. With a growing client list and an expanding portfolio of services, including SEO, social media marketing, and content creation, they needed a solution that could streamline their content management process, enhance collaboration among teams, and ensure consistency across client projects.",
+    "category": "use case",
+    "imagesrc": "public/images/1705782485302_cover.svg",
+    "imagealt": "blog image",
+    "authorfullname": "Sercan Oray",
+    "authorjob": "Co-founder / CMO",
+    "authorphotosrc": "public/images/1705782599826_sercan.png",
+    "authorphotoalt": "sercan image",
+    "authordescription": "Sercan is one of the founding partners of Contentrain. He also serves as Contentrain's CMO, working on both the creative and management sides of the company."
+  }
+]

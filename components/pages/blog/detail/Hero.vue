@@ -18,8 +18,8 @@
             <div class="flex flex-wrap justify-center w-full flex-col items-center">
                 <div class="flex items-center mb-6">
 
-                    <div class="h-16 w-16 rounded-full bg-gray-100 overflow-hidden border shadow-sm">
-                        <img height="64" width="64" class="h-full w-full object-cover" :src="detail?.authorphotosrc" :alt="detail?.authorphotoalt"/>
+                    <div v-if="detail && detail.authorphotosrc" class="h-16 w-16 rounded-full bg-gray-100 overflow-hidden border shadow-sm">
+                        <img height="64" width="64" class="h-full w-full object-cover" :src="detail?.authorphotosrc.split('public')[1]" :alt="detail?.authorphotoalt"/>
                     </div>
 
                     <div class="pl-2 text-left">

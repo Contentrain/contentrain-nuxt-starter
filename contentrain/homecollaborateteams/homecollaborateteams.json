@@ -1,10 +1,12 @@
 [
   {
     "ID": "fdf1dd91a0b8",
-    "title": "Collaborate your developer and content teams",
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T19:01:13.371Z",
+    "title": "The best content editing experience",
     "subtitle": "Key values",
-    "description": "Contentrain is designed to perfect collaboration, allowing developers and content creators to work together by providing custom roles & permissions. ",
-    "imagesrc": "/images/browser-1.png",
+    "description": "Contentrain's new content editing interfaces are designed for the marketing teams to create their content without any hassle.",
+    "imagesrc": "public/images/1705777138974_content editing.svg",
     "imagealt": "Contentrain app view",
     "buttonlabel": "Get started -- Free",
     "buttonlink": "https://contentrain.io"

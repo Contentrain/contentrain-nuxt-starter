@@ -1,38 +1,50 @@
 [
   {
     "ID": "fdf1dd91a123",
-    "title": "Serverless collections",
-    "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
-    "imagesrc": "/images/browser-1.png",
-    "imagealt": "",
-    "buttonlabel": "",
-    "buttonlink": ""
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T19:21:00.890Z",
+    "status": "publish",
+    "title": "Webhooks",
+    "description": "You'll now be able to create webhooks and work with third-party marketing tools from within Contentrain.",
+    "imagesrc": "public/images/1705778124461_Webhooks.svg",
+    "imagealt": "webhooks",
+    "buttonlabel": "Discover more",
+    "buttonlink": "https://contentrain.io/"
   },
   {
     "ID": "fdf1dd91a124",
-    "title": "Custom role management",
-    "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
-    "imagesrc": "/images/browser-1.png",
-    "imagealt": "",
-    "buttonlabel": "",
-    "buttonlink": ""
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T19:47:28.605Z",
+    "status": "publish",
+    "title": "Assests manager",
+    "description": "Our new Asset Manager provides a centralized hub for all your media, making it faster and more efficient to find exactly what you need, when you need it.",
+    "imagesrc": "public/images/1705778405141_assets.svg",
+    "imagealt": "assets",
+    "buttonlabel": "Discover more",
+    "buttonlink": "https://contentrain.io/"
   },
   {
     "ID": "fdf1dd91a125",
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T19:49:36.482Z",
+    "status": "publish",
     "title": "User workflows",
-    "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
-    "imagesrc": "/images/browser-1.png",
-    "imagealt": "",
-    "buttonlabel": "",
-    "buttonlink": ""
+    "description": "This feature ensures a smoother, more coherent journey from concept to completion, enhancing collaboration among team members and reducing the time spent on content administration.",
+    "imagesrc": "public/images/1705778635538_version.svg",
+    "imagealt": "user workflow",
+    "buttonlabel": "Discover more",
+    "buttonlink": "https://contentrain.io/"
   },
   {
     "ID": "fdf1dd91a126",
-    "title": "Serverless collections",
-    "description": "Take control of your content, create scalable structures, unleash your creativity, and publish remarkable digital experiences.",
-    "imagesrc": "/images/browser-1.png",
-    "imagealt": "",
-    "buttonlabel": "",
-    "buttonlink": ""
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T19:31:39.965Z",
+    "status": "publish",
+    "title": "New content schema tool",
+    "description": "With a great new content schema creation tool, you'll be able to create your content models easier than ever.",
+    "imagesrc": "public/images/1705779066075_schema.svg",
+    "imagealt": "content schema",
+    "buttonlabel": "Discover more",
+    "buttonlink": "https://contentrain.io/"
   }
 ]

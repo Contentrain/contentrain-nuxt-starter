@@ -1,7 +1,10 @@
 [
-    {
-        "ID": "fdf1dd91a0b8",
-        "title": "We’re always here to support community. Cause we 💙 you!",
-        "subtitle": "Resources"
-    }
+  {
+    "ID": "fdf1dd91a0b8",
+    "title": "We’re always here to support community. Cause we 💙 you!",
+    "subtitle": "Resources",
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-22T09:22:08.735Z",
+    "status": "publish"
+  }
 ]

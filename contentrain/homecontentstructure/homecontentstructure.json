@@ -1,11 +1,13 @@
 [
   {
     "ID": "fdf1dd91a0b8",
-    "title": "Create your scalable content structure",
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T18:54:25.506Z",
+    "title": "Now Contentrain is scalable than ever with Serverless Platforms",
     "subtitle": "Key values",
-    "description": "Work with collaboration between engineering and content teams. Build flexible digital products with your favorite development and 3rd party marketing tools.",
-    "imagesrc": "/images/browser-1.png",
+    "description": "Contentrain has all the features that developers are looking for to create a scalable and efficient project.",
     "imagealt": "Contentrain app view",
+    "imagesrc": "public/images/1705776658571_serverless.svg",
     "buttonlabel": "Get started -- Free",
     "buttonlink": "https://contentrain.io"
   }

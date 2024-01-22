@@ -66,7 +66,7 @@
     "componentId": "single-line-text",
     "options": {},
     "validations": {},
-    "fieldType": "array"
+    "fieldType": "string"
   },
   {
     "name": "description",
@@ -93,7 +93,7 @@
     "componentId": "single-line-text",
     "options": {},
     "validations": {},
-    "fieldType": "array"
+    "fieldType": "string"
   },
   {
     "name": "buttonLabel",
@@ -102,7 +102,7 @@
     "componentId": "single-line-text",
     "options": {},
     "validations": {},
-    "fieldType": "array"
+    "fieldType": "string"
   },
   {
     "name": "buttonLink",

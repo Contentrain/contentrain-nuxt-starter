@@ -1,25 +1,31 @@
 [
   {
+    "ID": "fdf1dd91a0b0",
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T19:44:02.537Z",
+    "icon": "emotion-wow",
+    "title": "Best Git CMS for Nuxt.js",
+    "description": "Contentrain is the best git-based Headless CMS for Nuxt. Developers and Enterprises love using Contentrain with their Nuxt projects.",
+    "buttonlabel": "Learn more",
+    "buttonlink": "https://contentrain.io"
+  },
+  {
     "ID": "fdf1dd91a0b8",
-    "icon": "file",
-    "title": "Combining Git & Serverless platforms",
-    "description": "Lorem ipsum dolor sit amet consectetur. Tempor non non ornare dui a cras tristique congue. Urna sed commodo cras senectus amet vestibulum.",
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T18:44:17.723Z",
+    "icon": "emotion-happy",
+    "title": "Why you should use Contentrain?",
+    "description": "Contentrain offers you the best developer experience and helps you develop your project without leaving your familiar development environment.",
     "buttonlabel": "Learn more",
     "buttonlink": "https://contentrain.io"
   },
   {
     "ID": "fdf1dd91a0b9",
-    "icon": "file",
-    "title": "Benefits of Git architecture",
-    "description": "Lorem ipsum dolor sit amet consectetur. Tempor non non ornare dui a cras tristique congue. Urna sed commodo cras senectus amet vestibulum.",
-    "buttonlabel": "Learn more",
-    "buttonlink": "https://contentrain.io"
-  },
-  {
-    "ID": "fdf1dd91a0b0",
-    "icon": "file",
-    "title": "Why Headless over Monolitic?",
-    "description": "Lorem ipsum dolor sit amet consectetur. Tempor non non ornare dui a cras tristique congue. Urna sed commodo cras senectus amet vestibulum.",
+    "createdAt": "2024-01-20T11:35:16.000Z",
+    "updatedAt": "2024-01-20T19:44:21.040Z",
+    "icon": "emotion-smile",
+    "title": "Using Git and Serverless platforms together?",
+    "description": "Using the advantages of Git architecture along with the flexibility of Serverless Platforms will create a great structure for your project.",
     "buttonlabel": "Learn more",
     "buttonlink": "https://contentrain.io"
   }

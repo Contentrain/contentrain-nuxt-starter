@@ -84,7 +84,7 @@
     "componentId": "single-line-text",
     "options": {},
     "validations": {},
-    "fieldType": "array"
+    "fieldType": "string"
   },
   {
     "name": "leftButtonLabel",
@@ -121,5 +121,14 @@
     "options": {},
     "validations": {},
     "fieldType": "boolean"
+  },
+  {
+    "name": "backgroundImage",
+    "fieldId": "backgroundimage",
+    "modelId": "footerbanner",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]

@@ -11,12 +11,12 @@
             </div>
         </article>
 
-        <div class="flex flex-wrap justify-center p-3 md:p-8 mt-24 mx-auto max-w-[640px] border border-indigo-50 text-center rounded-lg bg-gradient-to-b from-[#F5FAFF] to-transparent">
+        <div class="flex flex-wrap flex-col justify-center p-3 md:p-8 mt-24 mx-auto max-w-[640px] border border-indigo-50 text-center rounded-lg bg-gradient-to-b from-[#F5FAFF] to-transparent">
 
             <div class="text-center mb-8">
 
-                <div class="h-20 w-20 rounded-full bg-gray-100 overflow-hidden mx-auto mb-2 border shadow-sm">
-                    <img height="80" width="80" class="h-full w-full object-cover" :src="data?.authorphotosrc" :alt="data?.authorphotoalt"/>
+                <div v-if="data?.authorphotosrc" class="h-20 w-20 rounded-full bg-gray-100 overflow-hidden mx-auto mb-2 border shadow-sm">
+                    <img height="80" width="80" class="h-full w-full object-cover" :src="data?.authorphotosrc.split('public')[1]" :alt="data?.authorphotoalt"/>
                 </div>
 
                 <strong class="block mb-1 font-aeonik font-medium text-xl" v-text="data?.authorfullname"/>
@@ -35,10 +35,10 @@
 import type { MarkdownParsedContent } from '@nuxt/content/dist/runtime/types';
 
 const route = useRoute()
-const categoryRoute = route.path.split('/')[2]
-const slug = route.path.split('/')[3]
+const category = route.params.category as string
+const slug = route.params.slug as string
 
 const { data } = await useAsyncData('blogPost', () => queryContent<MarkdownParsedContent>('blog').where({
-    category: {$eq: categoryRoute}, slug: {$eq: slug}
+    category: {$eq: category}, slug: {$eq: slug}
 }).findOne())
 </script>
