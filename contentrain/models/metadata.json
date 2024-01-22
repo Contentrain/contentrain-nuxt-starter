@@ -115,7 +115,7 @@
   {
     "name": "useCase",
     "modelId": "usecase",
-    "path": "content/deneme",
+    "path": "content/use-case",
     "localization": false,
     "type": "MD",
     "createdBy": "user"
