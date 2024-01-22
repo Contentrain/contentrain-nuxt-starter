@@ -15,5 +15,23 @@
     "authorphotosrc": "public/images/1705782599826_sercan.png",
     "authorphotoalt": "sercan image",
     "authordescription": "Sercan is one of the founding partners of Contentrain. He also serves as Contentrain's CMO, working on both the creative and management sides of the company."
+  },
+  {
+    "ID": "ce733d7ea4af",
+    "createdAt": "Mon Jan 22 2024 12:02:53 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Mon Jan 22 2024 12:02:53 GMT+0300 (GMT+03:00)",
+    "slug": "saastanbul-event",
+    "title": "Saastanbul Evet",
+    "description": "SaaStanbul provided latest developments in the SaaS field and the opportunity to meet with inspiring speakers and prospects.🎙️ As a SaaS startup, we had participated various sessions.   Long story short, we’ve learned many different approaches that we can leverage for Contentrain to make it heard that it’s gonna be the best Headless CMS. 🤓",
+    "category": "Event",
+    "imagesrc": "public/images/1705781947129_blog cover.svg",
+    "imagealt": "image alt",
+    "authorfullname": "Deniz Durucan",
+    "authorjob": "Content Developer",
+    "authorphotosrc": "public/images/1705914789245_deniz.png",
+    "authorphotoalt": "deniz image",
+    "authordescription": "Deniz is a talented Content Developer at Contentrain, known for creating engaging and insightful content. With a background in journalism or marketing, he combines storytelling with strategic thinking, ensuring all content aligns with Contentrain's mission. His skills in SEO and audience engagement enhance the company's online presence, making him a valuable asset to the team.",
+    "status": "publish",
+    "path": "content/blog"
   }
 ]
