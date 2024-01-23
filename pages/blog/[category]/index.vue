@@ -17,5 +17,7 @@ const resource: ResourcesDataInterface = resourceHeroData[0]
 const resourceItems: ResourcesItemsDataInterface[] = resourceItemsData
 
 const category = route.params.category as string
+console.log("🚀 ~ category:", category)
 const data = await queryContent("blog").where({ category: category }).find()
+console.log("🚀 ~ data:", data)
 </script>

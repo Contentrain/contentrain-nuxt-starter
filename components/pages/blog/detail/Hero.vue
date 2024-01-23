@@ -3,7 +3,7 @@
         <div class="container flex flex-wrap justify-center text-center max-w-3xl">
 
             <span class="py-1.5 px-4 rounded-full bg-indigo-100 text-primary-700 font-medium text-sm capitalize"
-                  v-text="detail?.category"/>
+                  v-text="getCategory(detail?.category)?.name"/>
 
             <div class="w-full"/>
 
@@ -42,11 +42,17 @@
 const route = useRoute()
 
 const props = defineProps({
-    detail: {
-        type: Object
+        detail: {
+            type: Object
+        }
     }
+)
+import categories from '../../../../contentrain/blogcategories/blogcategories.json'
+
+const getCategory = (id:string) => {
+  const category = categories.find(category => ( category.ID === id ))
+  return category
 }
-    )
 function formatDate(inputDate:string) {
     const months = [
         'Jan', 'Feb', 'Mar', 'Apr',
