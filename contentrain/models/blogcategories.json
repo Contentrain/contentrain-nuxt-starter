@@ -64,8 +64,22 @@
     "fieldId": "name",
     "modelId": "blogcategories",
     "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
+    "options": {
+      "title-field": {
+        "value": true
+      },
+      "default-value": {
+        "value": false
+      }
+    },
+    "validations": {
+      "required-field": {
+        "value": false
+      },
+      "unique-field": {
+        "value": false
+      }
+    },
     "fieldType": "string"
   },
   {
