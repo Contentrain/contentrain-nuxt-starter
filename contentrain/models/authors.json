@@ -76,5 +76,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "photoSrc",
+    "fieldId": "photosrc",
+    "modelId": "authors",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
