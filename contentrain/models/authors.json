@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "authors"
+  },
+  {
+    "name": "fullName",
+    "fieldId": "fullname",
+    "modelId": "authors",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
