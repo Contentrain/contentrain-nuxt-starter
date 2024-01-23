@@ -161,19 +161,6 @@
     "fieldType": "string"
   },
   {
-    "name": "authorPhotoSrc",
-    "fieldId": "authorphotosrc",
-    "modelId": "usecase",
-    "componentId": "media",
-    "options": {},
-    "validations": {
-      "required-field": {
-        "value": false
-      }
-    },
-    "fieldType": "string"
-  },
-  {
     "name": "authorPhotoAlt",
     "fieldId": "authorphotoalt",
     "modelId": "usecase",
