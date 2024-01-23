@@ -161,52 +161,21 @@
     "fieldType": "string"
   },
   {
-    "name": "authorFullName",
-    "fieldId": "authorfullname",
+    "name": "author",
+    "fieldId": "author",
     "modelId": "usecase",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
-    "name": "authorJob",
-    "fieldId": "authorjob",
-    "modelId": "usecase",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
-    "name": "authorPhotoSrc",
-    "fieldId": "authorphotosrc",
-    "modelId": "usecase",
-    "componentId": "media",
-    "options": {},
-    "validations": {
-      "required-field": {
-        "value": false
+    "componentId": "one-to-one",
+    "options": {
+      "reference": {
+        "value": true,
+        "form": {
+          "reference": {
+            "value": "authors"
+          }
+        }
       }
     },
-    "fieldType": "string"
-  },
-  {
-    "name": "authorPhotoAlt",
-    "fieldId": "authorphotoalt",
-    "modelId": "usecase",
-    "componentId": "single-line-text",
-    "options": {},
     "validations": {},
-    "fieldType": "string"
-  },
-  {
-    "name": "authorDescription",
-    "fieldId": "authordescription",
-    "modelId": "usecase",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
+    "fieldType": "relation"
   }
 ]
