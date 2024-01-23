@@ -9,11 +9,7 @@ description: "As a bootstrapped digital product, reaching over 1000 users in a s
 category: "fdf1dd91a0c3"
 imagesrc: "public/images/1705782485302_cover.svg"
 imagealt: "blog image"
-authorfullname: "Sercan Oray"
-authorjob: "Co-founder / CMO"
-authorphotosrc: "public/images/1705782599826_sercan.png"
-authorphotoalt: "sercan image"
-authordescription: "Sercan is one of the founding partners of Contentrain. He also serves as Contentrain's CMO, working on both the creative and management sides of the company."
+author: "ad3132ae0ff8"
 path: "content/blog"
 ---
 # Contentrain 2.0 Roadmap

@@ -9,11 +9,7 @@ description: "Contentrain offers a flexible and intuitive platform for content m
 category: "fdf1dd91a0c1"
 imagesrc: "public/images/1705781947129_blog cover.svg"
 imagealt: "blog image"
-authorfullname: "Sercan Oray"
-authorjob: "Co-founder / CMO"
-authorphotosrc: "public/images/1705782599826_sercan.png"
-authorphotoalt: "Sercan image"
-authordescription: "Sercan is one of the founding partners of Contentrain. He also serves as Contentrain's CMO, working on both the creative and management sides of the company."
+author: "ad3132ae0ff8"
 path: "content/blog"
 ---
 ## Introduction
