@@ -17,12 +17,12 @@
 
             <div class="flex flex-wrap justify-center w-full flex-col items-center">
                 <div class="flex items-center mb-6">
-                    <div v-if="detail && setAuthor?.photosrc" class="h-16 w-16 rounded-full bg-gray-100 overflow-hidden border shadow-sm">
-                        <img height="64" width="64" class="h-full w-full object-cover" :src="setAuthor?.photosrc.split('public')[1]" :alt="setAuthor?.photoalt"/>
+                    <div v-if="detail" class="h-16 w-16 rounded-full bg-gray-100 overflow-hidden border shadow-sm">
+                        <img height="64" width="64" class="h-full w-full object-cover" :src="getAuthor(props.detail?.author)?.photosrc.split('public')[1]" :alt="getAuthor(props.detail?.author)?.photoalt"/>
                     </div>
 
                     <div class="pl-2 text-left">
-                        <span class="block font-aeonik font-medium text-xl" v-text="setAuthor?.fullname"/>
+                        <span class="block font-aeonik font-medium text-xl" v-text="getAuthor(props.detail?.author)?.fullname"/>
                         <span class="block text-gray-600 font-normal text-sm" v-text="formatDate(new Date(detail?.createdAt).toLocaleDateString())"/>
                     </div>
 
@@ -49,11 +49,10 @@ const props = defineProps({
 import categories from '../../../../contentrain/blogcategories/blogcategories.json'
 import authors from '../../../../contentrain/authors/authors.json'
 
-const getAuthor = async (id:string) => {
-  const author = await authors.find(item => ( item.ID === id ))
+const getAuthor = (id:string) => {
+  const author = authors.find(item => ( item.ID === id ))
   return author
 }
-const setAuthor = getAuthor(props.detail?.author)
 const getCategory = (id:string) => {
   const category = categories.find(category => ( category.ID === id ))
   return category
