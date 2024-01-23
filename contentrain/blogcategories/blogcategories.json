@@ -1,16 +1,8 @@
 [
   {
-    "ID": "fdf1dd91a0b8",
-    "name": "All articles",
-    "link": "/blog",
-    "status": "publish",
-    "createdAt": "2024-01-22T11:03:30.000Z",
-    "updatedAt": "2024-01-20T10:06:41.523Z"
-  },
-  {
     "ID": "fdf1dd91a0b9",
     "name": "Product",
-    "link": "/blog/product",
+    "slug": "product",
     "status": "publish",
     "createdAt": "2024-01-22T11:03:30.000Z",
     "updatedAt": "2024-01-20T10:06:41.523Z"
@@ -18,7 +10,7 @@
   {
     "ID": "fdf1dd91a0c0",
     "name": "Ecosystem",
-    "link": "/blog/ecosystem",
+    "slug": "ecosystem",
     "status": "publish",
     "createdAt": "2024-01-22T11:03:30.000Z",
     "updatedAt": "2024-01-20T10:06:41.523Z"
@@ -26,7 +18,7 @@
   {
     "ID": "fdf1dd91a0c1",
     "name": "How to guides",
-    "link": "/blog/how-to-guides",
+    "slug": "how-to-guides",
     "status": "publish",
     "createdAt": "2024-01-22T11:03:30.000Z",
     "updatedAt": "2024-01-20T10:06:41.523Z"
@@ -34,7 +26,7 @@
   {
     "ID": "fdf1dd91a0c2",
     "name": "Events",
-    "link": "/blog/events",
+    "slug": "events",
     "status": "publish",
     "createdAt": "2024-01-22T11:03:30.000Z",
     "updatedAt": "2024-01-20T10:06:41.523Z"
@@ -42,7 +34,7 @@
   {
     "ID": "fdf1dd91a0c3",
     "name": "Company",
-    "link": "/blog/company",
+    "slug": "company",
     "status": "publish",
     "createdAt": "2024-01-22T11:03:30.000Z",
     "updatedAt": "2024-01-20T10:06:41.523Z"

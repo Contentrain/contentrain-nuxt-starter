@@ -1,0 +1,24 @@
+[
+  {
+    "ID": "ad3132ae0ff8",
+    "createdAt": "Tue Jan 23 2024 10:48:36 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Tue Jan 23 2024 10:48:36 GMT+0300 (GMT+03:00)",
+    "fullname": "Sercan Oray",
+    "job": "Co-founder / CMO",
+    "photosrc": "public/images/1705782599826_sercan.png",
+    "photoalt": "Sercan Oray image",
+    "description": "Sercan is one of the founding partners of Contentrain. He also serves as Contentrain's CMO, working on both the creative and management sides of the company.",
+    "status": "draft"
+  },
+  {
+    "ID": "eeacee5d426c",
+    "createdAt": "Tue Jan 23 2024 10:20:11 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Tue Jan 23 2024 10:20:11 GMT+0300 (GMT+03:00)",
+    "fullname": "Deniz Durucan",
+    "job": "Content Developer",
+    "photosrc": "public/images/1705914789245_deniz.png",
+    "photoalt": "Deniz Durucan image",
+    "description": "Deniz is a talented Content Developer at Contentrain, known for creating engaging and insightful content. With a background in journalism or marketing, he combines storytelling with strategic thinking, ensuring all content aligns with Contentrain's mission. His skills in SEO and audience engagement enhance the company's online presence, making him a valuable asset to the team.",
+    "status": "draft"
+  }
+]

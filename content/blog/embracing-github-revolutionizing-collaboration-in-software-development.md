@@ -6,14 +6,10 @@ status: "draft"
 slug: "embracing-github-revolutionizing-collaboration-in-software-development"
 title: "Embracing GitHub: Revolutionizing Collaboration in Software Development"
 description: "In the dynamic world of software development, GitHub stands as a beacon of collaboration, innovation, and version control. It's not just a platform; it's a community hub where developers from around the globe converge to create, share, and improve code."
-category: "ecosystem"
+category: "fdf1dd91a0c0"
 imagesrc: "public/images/1705781947129_blog cover.svg"
 imagealt: "blog cover"
-authorfullname: "Deniz Durucan"
-authorjob: "Content Developer"
-authorphotosrc: "public/images/1705914789245_deniz.png"
-authorphotoalt: "deniz image"
-authordescription: "Deniz is a talented Content Developer at Contentrain, known for creating engaging and insightful content. With a background in journalism or marketing, he combines storytelling with strategic thinking, ensuring all content aligns with Contentrain's mission. His skills in SEO and audience engagement enhance the company's online presence, making him a valuable asset to the team."
+author: "eeacee5d426c"
 
 ---
 

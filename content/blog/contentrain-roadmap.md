@@ -1,20 +1,16 @@
 ---
 ID: "92e8eb7c453b"
 createdAt: "2024-01-20T17:37:24.000Z"
-updatedAt: "2024-01-21T09:00:09.302Z"
+updatedAt: "2024-01-22T16:08:20.406Z"
 status: "publish"
-slug: "contentrain-2.0-roadmap"
+slug: "contentrain-roadmap"
 title: "Contentain 2.0 Roadmap"
 description: "As a bootstrapped digital product, reaching over 1000 users in a short time with the launch was great but it also brings tough liabilities for the creators of the product. Once a macro-scale product is launched and finds resonance with the users, it's crucial to be prepared for user feedback and new feature requests."
-category: "company"
+category: "fdf1dd91a0c3"
 imagesrc: "public/images/1705782485302_cover.svg"
 imagealt: "blog image"
-authorfullname: "Sercan Oray"
-authorjob: "Co-founder / CMO"
-authorphotosrc: "public/images/1705782599826_sercan.png"
-authorphotoalt: "sercan image"
-authordescription: "Sercan is one of the founding partners of Contentrain. He also serves as Contentrain's CMO, working on both the creative and management sides of the company."
-
+author: "ad3132ae0ff8"
+path: "content/blog"
 ---
 # Contentrain 2.0 Roadmap
 

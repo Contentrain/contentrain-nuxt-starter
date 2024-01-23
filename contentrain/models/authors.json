@@ -12,7 +12,7 @@
     "fieldType": "date",
     "system": true,
     "defaultField": false,
-    "modelId": "blogcategories"
+    "modelId": "authors"
   },
   {
     "name": "updatedAt",
@@ -27,7 +27,7 @@
     "fieldType": "date",
     "system": true,
     "defaultField": false,
-    "modelId": "blogcategories"
+    "modelId": "authors"
   },
   {
     "name": "ID",
@@ -42,7 +42,7 @@
     "fieldType": "string",
     "system": true,
     "defaultField": false,
-    "modelId": "blogcategories"
+    "modelId": "authors"
   },
   {
     "name": "status",
@@ -57,36 +57,49 @@
     "fieldType": "string",
     "system": true,
     "defaultField": false,
-    "modelId": "blogcategories"
+    "modelId": "authors"
   },
   {
-    "name": "name",
-    "fieldId": "name",
-    "modelId": "blogcategories",
+    "name": "fullName",
+    "fieldId": "fullname",
+    "modelId": "authors",
     "componentId": "single-line-text",
-    "options": {
-      "title-field": {
-        "value": true
-      },
-      "default-value": {
-        "value": false
-      }
-    },
-    "validations": {
-      "required-field": {
-        "value": false
-      },
-      "unique-field": {
-        "value": false
-      }
-    },
+    "options": {},
+    "validations": {},
     "fieldType": "string"
   },
   {
-    "name": "slug",
-    "fieldId": "slug",
-    "modelId": "blogcategories",
-    "componentId": "slug",
+    "name": "job",
+    "fieldId": "job",
+    "modelId": "authors",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "photoSrc",
+    "fieldId": "photosrc",
+    "modelId": "authors",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
+  },
+  {
+    "name": "photoAlt",
+    "fieldId": "photoalt",
+    "modelId": "authors",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "name": "description",
+    "fieldId": "description",
+    "modelId": "authors",
+    "componentId": "multi-line-text",
     "options": {},
     "validations": {},
     "fieldType": "string"

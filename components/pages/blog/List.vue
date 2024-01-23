@@ -8,13 +8,13 @@
         :key="post.slug"
       >
         <div class="blog-card w-full md:w-1/3 px-2 pt-4 pb-12 group">
-          <nuxt-link :to="`/blog/${post.category}/${post.slug}`">
+          <nuxt-link :to="`/blog/${getCategory(post.category)?.slug}/${post.slug}`">
           <div
             class="w-full aspect-video rounded-lg overflow-hidden relative group-hover:shadow-[0_0_0_4px_rgba(59,130,246,0.40)]"
           >
             <span
               class="inline-block border border-gray:50 px-3 py-1 bg-white text-xs font-semibold rounded absolute top-5 left-5 capitalize"
-              v-text="post.category.replaceAll('-',' ')"
+              v-text="getCategory(post.category)?.name"
             />
             <img v-if="post && post.imagesrc"
               class="object-contain"
@@ -52,6 +52,12 @@ const props = defineProps({
     type: Object,
   },
 })
+import categories from '../../../contentrain/blogcategories/blogcategories.json'
+
+const getCategory = (id:string) => {
+  const category = categories.find(category => ( category.ID === id ))
+  return category
+}
 
 const postsPerPage = 9;
 const pagesToShow = 5;

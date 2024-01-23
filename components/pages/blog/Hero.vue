@@ -14,8 +14,11 @@
 
             <div class="flex md:justify-center mx-auto max-w-full border rounded-full p-1 bg-white text-sm text-gray-600 font-normal overflow-auto">
 
+                <nuxt-link to="/blog" title="All articles" class="flex py-2 px-4 rounded-full whitespace-nowrap"
+                               exact-active-class="bg-primary-500 text-white">All articles
+                </nuxt-link>
                 <template v-for="(category, i) in blogCategoriesData" :key="`category-${i}`">
-                    <nuxt-link :to="category.link" :title="category.name" class="flex py-2 px-4 rounded-full whitespace-nowrap"
+                    <nuxt-link :to="`/blog/${category.slug}`" :title="category.name" class="flex py-2 px-4 rounded-full whitespace-nowrap"
                                exact-active-class="bg-primary-500 text-white">{{ category.name }}
                     </nuxt-link>
                 </template>

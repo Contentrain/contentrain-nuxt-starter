@@ -126,19 +126,6 @@
     "fieldType": "string"
   },
   {
-    "name": "category",
-    "fieldId": "category",
-    "modelId": "blog",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {
-      "required-field": {
-        "value": true
-      }
-    },
-    "fieldType": "string"
-  },
-  {
     "name": "imageSrc",
     "fieldId": "imagesrc",
     "modelId": "blog",
@@ -161,52 +148,39 @@
     "fieldType": "string"
   },
   {
-    "name": "authorFullName",
-    "fieldId": "authorfullname",
+    "name": "author",
+    "fieldId": "author",
     "modelId": "blog",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
-    "name": "authorJob",
-    "fieldId": "authorjob",
-    "modelId": "blog",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
-    "name": "authorPhotoSrc",
-    "fieldId": "authorphotosrc",
-    "modelId": "blog",
-    "componentId": "media",
-    "options": {},
-    "validations": {
-      "required-field": {
-        "value": false
+    "componentId": "one-to-one",
+    "options": {
+      "reference": {
+        "value": true,
+        "form": {
+          "reference": {
+            "value": "authors"
+          }
+        }
       }
     },
-    "fieldType": "string"
+    "validations": {},
+    "fieldType": "relation"
   },
   {
-    "name": "authorPhotoAlt",
-    "fieldId": "authorphotoalt",
+    "name": "category",
+    "fieldId": "category",
     "modelId": "blog",
-    "componentId": "single-line-text",
-    "options": {},
+    "componentId": "one-to-one",
+    "options": {
+      "reference": {
+        "value": true,
+        "form": {
+          "reference": {
+            "value": "blogcategories"
+          }
+        }
+      }
+    },
     "validations": {},
-    "fieldType": "string"
-  },
-  {
-    "name": "authorDescription",
-    "fieldId": "authordescription",
-    "modelId": "blog",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
+    "fieldType": "relation"
   }
 ]

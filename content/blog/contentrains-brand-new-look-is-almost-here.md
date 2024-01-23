@@ -1,22 +1,17 @@
 ---
 ID: "84b8f80da03b"
 createdAt: "2024-01-22T11:03:30.000Z"
-updatedAt: "2024-01-22T11:47:21.223Z"
-status: "publish"
+updatedAt: "2024-01-23T07:48:13.554Z"
+status: "draft"
 slug: "contentrains-brand-new-look-is-almost-here"
 title: "The Exciting Reveal: Contentrain's Brand New Look is Almost Here!"
 description: "We're buzzing with excitement and can't wait to share some thrilling news with all of you – the wait is nearly over! 🎉 Get ready to witness a fresh and revitalized Contentrain."
-category: "product"
+category: "fdf1dd91a0b9"
 imagesrc: "public/images/1705781947129_blog cover.svg"
 imagealt: "alt image"
-authorfullname: "Deniz Durucan"
-authorjob: "Content Developer"
-authorphotosrc: "public/images/1705914789245_deniz.png"
-authorphotoalt: "deniz image"
-authordescription: "Deniz is a talented Content Developer at Contentrain, known for creating engaging and insightful content. With a background in journalism or marketing, he combines storytelling with strategic thinking, ensuring all content aligns with Contentrain's mission. His skills in SEO and audience engagement enhance the company's online presence, making him a valuable asset to the team."
-
+author: "eeacee5d426c"
+path: "content/blog"
 ---
-
 # Hello Contentrain Community!
 
 We're buzzing with excitement and can't wait to share some thrilling news with all of you – the wait is nearly over! 🎉 Get ready to witness a fresh and revitalized Contentrain. Our team has been working tirelessly behind the scenes, and we're just about ready to unveil the updated face of Contentrain.
@@ -37,4 +32,4 @@ Thank you for being part of our journey. The next phase of Contentrain is almost
 
 Stay tuned for what's next,
 
-The Contentrain Team
+The Contentrain Team.
