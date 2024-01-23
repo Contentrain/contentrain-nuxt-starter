@@ -159,14 +159,5 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
-  },
-  {
-    "name": "authorDescription",
-    "fieldId": "authordescription",
-    "modelId": "usecase",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
   }
 ]
