@@ -81,5 +81,14 @@
       }
     },
     "fieldType": "string"
+  },
+  {
+    "name": "slug",
+    "fieldId": "slug",
+    "modelId": "blogcategories",
+    "componentId": "slug",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
