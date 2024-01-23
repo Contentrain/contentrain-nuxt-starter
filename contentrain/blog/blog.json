@@ -2,15 +2,15 @@
   {
     "ID": "84b8f80da03b",
     "createdAt": "2024-01-22T11:03:30.000Z",
-    "updatedAt": "2024-01-23T07:48:13.554Z",
+    "updatedAt": "2024-01-23T17:07:40.706Z",
     "status": "draft",
     "slug": "contentrains-brand-new-look-is-almost-here",
     "title": "The Exciting Reveal: Contentrain's Brand New Look is Almost Here!",
     "description": "We're buzzing with excitement and can't wait to share some thrilling news with all of you – the wait is nearly over! 🎉 Get ready to witness a fresh and revitalized Contentrain.",
-    "category": "fdf1dd91a0b9",
     "imagesrc": "public/images/1705781947129_blog cover.svg",
     "imagealt": "alt image",
-    "author": "eeacee5d426c",
+    "author": "ad3132ae0ff8",
+    "category": "fdf1dd91a0b9",
     "path": "content/blog"
   },
   {
