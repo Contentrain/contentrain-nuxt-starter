@@ -2,11 +2,11 @@
   {
     "ID": "fdf1dd91a7b8",
     "createdAt": "2024-01-20T11:35:16.000Z",
-    "updatedAt": "2024-01-20T20:14:33.996Z",
+    "updatedAt": "2024-01-23T11:46:18.042Z",
     "status": "publish",
     "title": "We share our experience It’s more than a blog",
     "description": "We share our product updates, new features and Headless CMS ecosystem knowledge.",
-    "imagesrc": "public/images/browser-1.png",
+    "imagesrc": "public/images/1705750433763_browser-1.png",
     "imagealt": "Contentrain app view",
     "leftbuttonlabel": "See live demo",
     "leftbuttonlink": "https://contentrain.io",
