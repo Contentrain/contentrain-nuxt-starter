@@ -148,19 +148,6 @@
     "fieldType": "string"
   },
   {
-    "name": "authorPhotoSrc",
-    "fieldId": "authorphotosrc",
-    "modelId": "blog",
-    "componentId": "media",
-    "options": {},
-    "validations": {
-      "required-field": {
-        "value": false
-      }
-    },
-    "fieldType": "string"
-  },
-  {
     "name": "authorPhotoAlt",
     "fieldId": "authorphotoalt",
     "modelId": "blog",
