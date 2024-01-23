@@ -85,5 +85,14 @@
     "options": {},
     "validations": {},
     "fieldType": "media"
+  },
+  {
+    "name": "photoAlt",
+    "fieldId": "photoalt",
+    "modelId": "authors",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
