@@ -9,11 +9,7 @@ description: "Bloom Digital Agency, a mid-sized digital marketing agency, faced 
 category: "use case"
 imagesrc: "public/images/1705782485302_cover.svg"
 imagealt: "blog image"
-authorfullname: "Sercan Oray"
-authorjob: "Co-founder / CMO"
-authorphotosrc: "public/images/1705782599826_sercan.png"
-authorphotoalt: "sercan image"
-authordescription: "Sercan is one of the founding partners of Contentrain. He also serves as Contentrain's CMO, working on both the creative and management sides of the company."
+author: "ad3132ae0ff8"
 
 ---
 ## Background
