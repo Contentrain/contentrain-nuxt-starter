@@ -161,15 +161,6 @@
     "fieldType": "string"
   },
   {
-    "name": "authorJob",
-    "fieldId": "authorjob",
-    "modelId": "usecase",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
     "name": "authorPhotoSrc",
     "fieldId": "authorphotosrc",
     "modelId": "usecase",
