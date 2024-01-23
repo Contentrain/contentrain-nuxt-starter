@@ -148,15 +148,6 @@
     "fieldType": "string"
   },
   {
-    "name": "authorFullName",
-    "fieldId": "authorfullname",
-    "modelId": "blog",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  },
-  {
     "name": "authorJob",
     "fieldId": "authorjob",
     "modelId": "blog",
