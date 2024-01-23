@@ -81,14 +81,5 @@
       }
     },
     "fieldType": "string"
-  },
-  {
-    "name": "link",
-    "fieldId": "link",
-    "modelId": "blogcategories",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
   }
 ]
