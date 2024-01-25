@@ -7,7 +7,7 @@
       </Button>
     </div>
 
-    <HeaderNavMenuList @close="closeNavMenu" :nav-menu="navigationItemsData"/>
+    <HeaderNavMenuList @click="closeNavMenu" :nav-menu="navigationItemsData"/>
 
     <div class="self-end p-6 w-full lg:hidden">
 
@@ -31,7 +31,7 @@ const closeNavMenu = (): void => {
   navMenuStore.show = false
 }
 
-const shown = computed((): boolean => navMenuStore.show)
+const shown = computed<boolean>(() => navMenuStore.show)
 
 </script>
 
