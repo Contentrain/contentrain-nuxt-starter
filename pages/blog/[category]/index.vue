@@ -15,7 +15,9 @@ import resourceHeroData from '../../../contentrain/resourceshero/resourceshero.j
 import resourceItemsData from '../../../contentrain/resourcesitems/resourcesitems.json'
 const resource: ResourcesDataInterface = resourceHeroData[0]
 const resourceItems: ResourcesItemsDataInterface[] = resourceItemsData
+import blogCategories from '../../../contentrain/blogcategories/blogcategories.json'
 
-const category = route.params.category as string
-const data = await queryContent("blog").where({ category: category }).find()
+const routeCategory = route.params.category as string
+const category = blogCategories.find((item:any) => item.slug === routeCategory)
+const data = await queryContent("blog").where({ category: category?.ID }).find()
 </script>
