@@ -1,8 +1,8 @@
 ---
 ID: "ec205f5aa4d3"
 createdAt: "2024-01-22T10:57:17.000Z"
-updatedAt: "2024-01-22T11:02:39.154Z"
-status: "draft"
+updatedAt: "2024-02-07T13:29:36.537Z"
+status: "publish"
 slug: "embracing-github-revolutionizing-collaboration-in-software-development"
 title: "Embracing GitHub: Revolutionizing Collaboration in Software Development"
 description: "In the dynamic world of software development, GitHub stands as a beacon of collaboration, innovation, and version control. It's not just a platform; it's a community hub where developers from around the globe converge to create, share, and improve code."
@@ -10,9 +10,8 @@ category: "fdf1dd91a0c0"
 imagesrc: "public/images/1705781947129_blog cover.svg"
 imagealt: "blog cover"
 author: "eeacee5d426c"
-
+path: "content/blog"
 ---
-
 ### Introduction
 
 In the dynamic world of software development, GitHub stands as a beacon of collaboration, innovation, and version control. It's not just a platform; it's a community hub where developers from around the globe converge to create, share, and improve code. This blog post explores the multifaceted world of GitHub, shedding light on its features, significance, and how it has transformed the software development landscape.
