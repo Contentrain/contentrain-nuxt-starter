@@ -1,5 +1,17 @@
 [
   {
+    "ID": "5f5c198b4e9e",
+    "createdAt": "Wed Feb 21 2024 14:13:10 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Wed Feb 21 2024 14:13:10 GMT+0300 (GMT+03:00)",
+    "fullname": "Ahmet",
+    "job": "Designer",
+    "photosrc": "public/images/1705749272060_banner-bg.svg",
+    "photoalt": "Alt aa",
+    "description": "Yeni bir author",
+    "status": "publish",
+    "scheduled": false
+  },
+  {
     "ID": "ad3132ae0ff8",
     "createdAt": "Tue Jan 23 2024 10:48:36 GMT+0300 (GMT+03:00)",
     "updatedAt": "2024-02-07T13:29:28.376Z",
